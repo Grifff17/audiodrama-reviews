@@ -9,6 +9,7 @@ Every audiodrama I have listened to will be in the database.
 Each audiodrama will have:
 - name
 - rating out of 10
+- completion status at *date* (finished, unfinished, abandoned)
 - short review/description
 - some audiodramas will have in-depth reviews on a seperate page
 - list of tags (musical, sci-fi, comedy, etc.)
