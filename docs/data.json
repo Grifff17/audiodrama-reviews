@@ -38,10 +38,36 @@
             "id": 3,
             "name": "Second Star to the Left",
             "rating": "9.5",
-            "review": " is an audiodrama about Gwen, the first person to start colonizing a planet. She will be alone for 5 years before any other colonists arrive. However, it turns out that she is not totally alone, due to Bell, her scout-minder, whose job it is to talk to her every day from a nearby space station so she doesn't go insane. Second Star to the Left is an amazing story about two people and the relationship they form with each other.",
+            "review": " is a story about Gwen, the first person to start colonizing a planet. She will be alone for 5 years before any other colonists arrive. However, it turns out that she is not totally alone, due to Bell, her scout-minder, whose job it is to talk to her every day from a nearby space station so she doesn't go insane. Second Star to the Left is an amazing story about two people and the relationship they form with each other.",
             "tags": [
                 "sci-fi",
                 "queer",
+                "romance",
+                "complete"
+            ]
+        },
+
+        {
+            "id": 4,
+            "name": "Fall of the House of Sunshine",
+            "rating": "8.5",
+            "review": " is an absurdist musical comedy about a cult of dentists, living puppets, and the murder of a kids tv show host through a rip in space time. That’s the first season, at least. If you like musicals and completely absurd plots along with some surprisingly good worldbuilding, this is the audiodrama for you. Some of the songs are really good, and the show keeps up it high quality through 3 seasons.",
+            "tags": [
+                "supernatural",
+                "comedy",
+                "musical",
+                "queer",
+                "complete"
+            ]
+        },
+
+        {
+            "id": 5,
+            "name": "36 Questions",
+            "rating": "4",
+            "review": " is a short musical audiodrama about a couple trying to save their marriage. I wasn't a huge fan of this audiodrama. Despite being a fan of musicals it didn't really resonate with me. I also prefer long-form stories over shorter ones regardless of medium, so this missed the mark on that front.",
+            "tags": [
+                "musical",
                 "romance",
                 "complete"
             ]
