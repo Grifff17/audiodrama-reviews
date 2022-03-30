@@ -21,15 +21,23 @@ function displayAudiodramas(event) {
         audiodramasList.id = "ADtable"
         let listHeader = document.createElement('tr')
         listHeader.id = "tableheader"
+        let selectHeader = document.createElement('th')
+        selectHeader.appendChild(document.createTextNode("Select"))
+        selectHeader.style.width = "8%"
         let nameHeader = document.createElement('th')
         nameHeader.appendChild(document.createTextNode("Name"))
+        nameHeader.style.width = "10%"
         let reviewHeader = document.createElement('th')
         reviewHeader.appendChild(document.createTextNode("Review"))
+        reviewHeader.style.width = "66%"
         let ratingHeader = document.createElement('th')
         ratingHeader.appendChild(document.createTextNode("Rating"))
+        ratingHeader.style.width = "6%"
         let tagsHeader = document.createElement('th')
         tagsHeader.appendChild(document.createTextNode("Tags"))
+        tagsHeader.style.width = "10%"
 
+        listHeader.appendChild(selectHeader)
         listHeader.appendChild(nameHeader)
         listHeader.appendChild(reviewHeader)
         listHeader.appendChild(ratingHeader)
@@ -45,15 +53,23 @@ function displayAudiodramas(event) {
                 taglist = taglist + tag + "<br>"
             }
 
-            let name = document.createElement('th')
+            let checkbox = document.createElement("input")
+            checkbox.type = "button"
+            checkbox.id = `ad-${audiodrama["id"]}`
+            checkbox.name = "test"
+            checkbox.value = "test"
+            let selector = document.createElement("td")
+            selector.appendChild(checkbox)
+            let name = document.createElement('td')
             name.appendChild(document.createTextNode(audiodrama.name))
-            let review = document.createElement('th')
+            let review = document.createElement('td')
             review.appendChild(document.createTextNode(`${audiodrama.name}${audiodrama.review}`))
-            let rating = document.createElement('th')
+            let rating = document.createElement('td')
             rating.appendChild(document.createTextNode(`${audiodrama.rating}/10`))
-            let tags = document.createElement('th')
+            let tags = document.createElement('td')
             tags.innerHTML = taglist
             
+            listItem.appendChild(selector)
             listItem.appendChild(name)
             listItem.appendChild(review)
             listItem.appendChild(rating)
@@ -76,7 +92,7 @@ function namesearchADs() {
 
     //hides items not matching search
     for (i = 1; i < rows.length; i++) {
-        val = rows[i].getElementsByTagName("th")[0].textContent
+        val = rows[i].getElementsByTagName("td")[1].textContent
         if (val.toUpperCase().includes(search)) {
             rows[i].style.display = ""
         } else {
@@ -117,7 +133,7 @@ function togglefilter(tag) {
     let table = document.getElementById("ADtable")
     let rows = table.getElementsByTagName("tr")
     for (i = 1; i < rows.length; i++) {
-        val = rows[i].getElementsByTagName("th")[3].textContent
+        val = rows[i].getElementsByTagName("td")[4].textContent
         let valid = true
         for (const tag of enabledtags) {
             if (!val.includes(tag)) {

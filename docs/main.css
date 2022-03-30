@@ -2,6 +2,10 @@ header {
     background-color: beige;
 }
 
+footer {
+    background-color: beige;
+}
+
 table {
     text-align: left;
 }
@@ -12,4 +16,19 @@ table {
 
 #tableitem {
     background-color: lightblue;
+}
+
+input {
+    border-color: lightgray;
+    border-radius: 8px;
+    color: lightgray;
+}
+
+#namesearch {
+    color: black;
+    background-color: lightgray;
+}
+
+input.checkbox {
+    display: inline-block;
 }
