@@ -1,3 +1,13 @@
 header {
     background-color: beige;
 }
+
+#tableheader {
+    background-color: beige;
+    text-align: left;
+}
+
+#tableitem {
+    background-color: lightblue;
+    text-align: left;
+}
