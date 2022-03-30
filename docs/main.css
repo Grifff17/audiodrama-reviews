@@ -2,12 +2,14 @@ header {
     background-color: beige;
 }
 
+table {
+    text-align: left;
+}
+
 #tableheader {
     background-color: beige;
-    text-align: left;
 }
 
 #tableitem {
     background-color: lightblue;
-    text-align: left;
 }

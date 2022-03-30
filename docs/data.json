@@ -1,14 +1,14 @@
 {
-    "tags": {
-        "scifi": "sci-fi",
-        "fantasy": "fantasy",
-        "supernatural": "supernatural",
-        "comedy": "comedy",
-        "musical": "musical",
-        "queer": "queer",
-        "romance": "romance",
-        "complete": "complete"
-    },
+    "tags": [
+        "sci-fi",
+        "fantasy",
+        "supernatural",
+        "comedy",
+        "musical",
+        "queer",
+        "romance",
+        "complete"
+    ],
     "audiodramas" : [
         {
             "id": 1,
