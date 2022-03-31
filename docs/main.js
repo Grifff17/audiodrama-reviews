@@ -16,6 +16,15 @@ function displayAudiodramas(event) {
         filterbuttons.id = "buttons"
         filterbuttons.innerHTML = buttons
 
+        //sorts audiodramas by rating
+        audiodramas.sort(function(a,b) {
+            let keyA = parseInt(a["rating"])
+            let keyB = parseInt(b["rating"])
+            if (keyA < keyB) return 1
+            if (keyA > keyB) return -1
+            return 0
+        })
+
         //creates table and header of table
         let audiodramasList = document.createElement('table')
         audiodramasList.id = "ADtable"
@@ -23,13 +32,13 @@ function displayAudiodramas(event) {
         listHeader.id = "tableheader"
         let selectHeader = document.createElement('th')
         selectHeader.appendChild(document.createTextNode("Select"))
-        selectHeader.style.width = "8%"
+        selectHeader.style.width = "5%"
         let nameHeader = document.createElement('th')
         nameHeader.appendChild(document.createTextNode("Name"))
         nameHeader.style.width = "10%"
         let reviewHeader = document.createElement('th')
         reviewHeader.appendChild(document.createTextNode("Review"))
-        reviewHeader.style.width = "66%"
+        reviewHeader.style.width = "69%"
         let ratingHeader = document.createElement('th')
         ratingHeader.appendChild(document.createTextNode("Rating"))
         ratingHeader.style.width = "6%"
@@ -54,14 +63,16 @@ function displayAudiodramas(event) {
             }
 
             let checkbox = document.createElement("input")
-            checkbox.type = "button"
-            checkbox.id = `ad-${audiodrama["id"]}`
+            checkbox.type = "checkbox"
             checkbox.name = "test"
             checkbox.value = "test"
+            checkbox.id = `ad${audiodrama["id"]}`
             let selector = document.createElement("td")
             selector.appendChild(checkbox)
             let name = document.createElement('td')
-            name.appendChild(document.createTextNode(audiodrama.name))
+            let boldname = document.createElement("b")
+            boldname.appendChild(document.createTextNode(audiodrama.name))
+            name.appendChild(boldname)
             let review = document.createElement('td')
             review.appendChild(document.createTextNode(`${audiodrama.name}${audiodrama.review}`))
             let rating = document.createElement('td')
@@ -99,7 +110,6 @@ function namesearchADs() {
             rows[i].style.display = "none"
         }
     }
-
     //unchecks filter buttons
     buttonp = document.getElementById("buttons")
     buttons = buttonp.getElementsByTagName("input")
@@ -149,4 +159,19 @@ function togglefilter(tag) {
 
     //clears text search box
     document.getElementById("namesearch").value = ""
+}
+
+//copies all selected audiodrama descriptions to clipboard with markup
+function copyselected() {
+    let table = document.getElementById("ADtable")
+    let rows = table.getElementsByTagName("tr")
+
+    copymessage = ""
+    for (i = 1; i < rows.length; i++) {
+        val = rows[i].querySelector("input").checked
+        if (val) {
+            copymessage = copymessage + rows[i].getElementsByTagName("td")[2].textContent + "\n\n"
+        }
+    }
+    navigator.clipboard.writeText(copymessage)
 }

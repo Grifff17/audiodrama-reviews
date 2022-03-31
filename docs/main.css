@@ -18,17 +18,23 @@ table {
     background-color: lightblue;
 }
 
-input {
+input[type=text] {
     border-color: lightgray;
     border-radius: 8px;
     color: lightgray;
 }
 
-#namesearch {
+input[type=button] {
+    border-radius: 8px;
     color: black;
+    background-color: gray;
+}
+
+#copybutton {
     background-color: lightgray;
 }
 
-input.checkbox {
-    display: inline-block;
+input[type=checkbox] {
+    width: 19px;
+    height: 19px;
 }
