@@ -1,9 +1,17 @@
-header {
-    background-color: beige;
+body {
+    color: rgb(230, 230, 230);
+    background-color: #323232;
 }
 
-footer {
-    background-color: beige;
+header, footer, main {
+    border: 3px solid #626262;
+    border-radius: 8px;
+    margin-bottom: 8px;
+}
+
+#header, #footer, #main {
+    border: 4px solid #323232;
+    border-radius: 8px;
 }
 
 table {
@@ -11,27 +19,29 @@ table {
 }
 
 #tableheader {
-    background-color: beige;
+    background-color: #323266;
 }
 
 #tableitem {
-    background-color: lightblue;
+    background-color: #323266;
 }
 
 input[type=text] {
     border-color: lightgray;
     border-radius: 8px;
-    color: lightgray;
+    color: #323232;
+    border: none;
 }
 
 input[type=button] {
     border-radius: 8px;
-    color: black;
-    background-color: gray;
+    background-color: rgb(98, 98, 98);
+    color: rgb(230, 230, 230);
+    border: none;
 }
 
-#copybutton {
-    background-color: lightgray;
+#copybutton:active {
+    background-color: rgb(4, 4, 125);
 }
 
 input[type=checkbox] {

@@ -1,5 +1,8 @@
 document.addEventListener("DOMContentLoaded", displayAudiodramas)
 
+buttonClickedColor = "rgb(4, 4, 125)"
+buttonReleasedColor = "rgb(98, 98, 98)"
+
 //displays table of audiodramas
 function displayAudiodramas(event) {
     fetch("data.json").then(response => {
@@ -10,7 +13,7 @@ function displayAudiodramas(event) {
         //creates buttons for filtering
         let buttons = ""
         for (const tag of data["tags"]) {
-            buttons = buttons + `<input type="button" style="background-color: gray" value="${tag}" onclick="togglefilter('${tag}')" id="tag-${tag}">`
+            buttons = buttons + `<input type="button" style="background-color: ${buttonReleasedColor}" value="${tag}" onclick="togglefilter('${tag}')" id="tag-${tag}">`
         }
         filterbuttons = document.createElement('p')
         filterbuttons.id = "buttons"
@@ -32,19 +35,19 @@ function displayAudiodramas(event) {
         listHeader.id = "tableheader"
         let selectHeader = document.createElement('th')
         selectHeader.appendChild(document.createTextNode("Select"))
-        selectHeader.style.width = "5%"
+        selectHeader.style.width = "30px"
         let nameHeader = document.createElement('th')
         nameHeader.appendChild(document.createTextNode("Name"))
-        nameHeader.style.width = "10%"
+        nameHeader.style.width = "100px"
         let reviewHeader = document.createElement('th')
         reviewHeader.appendChild(document.createTextNode("Review"))
-        reviewHeader.style.width = "69%"
+        reviewHeader.style.width = "auto"
         let ratingHeader = document.createElement('th')
         ratingHeader.appendChild(document.createTextNode("Rating"))
-        ratingHeader.style.width = "6%"
+        ratingHeader.style.width = "30px"
         let tagsHeader = document.createElement('th')
         tagsHeader.appendChild(document.createTextNode("Tags"))
-        tagsHeader.style.width = "10%"
+        tagsHeader.style.width = "30px"
 
         listHeader.appendChild(selectHeader)
         listHeader.appendChild(nameHeader)
@@ -88,7 +91,7 @@ function displayAudiodramas(event) {
             audiodramasList.appendChild(listItem)
         })
 
-        let main = document.querySelector('main')
+        let main = document.getElementById("main")
         main.appendChild(filterbuttons)
         main.appendChild(audiodramasList)
     })
@@ -114,7 +117,7 @@ function namesearchADs() {
     buttonp = document.getElementById("buttons")
     buttons = buttonp.getElementsByTagName("input")
     for (const button of buttons) {
-        button.style.backgroundColor = "gray"
+        button.style.backgroundColor = buttonReleasedColor
     }
 
 }
@@ -123,10 +126,10 @@ function namesearchADs() {
 function togglefilter(tag) {
     //toggles pressed button
     activebutton = document.getElementById(`tag-${tag}`)
-    if (activebutton.style.backgroundColor == "gray") {
-        activebutton.style.backgroundColor = "blue"
+    if (activebutton.style.backgroundColor == buttonReleasedColor) {
+        activebutton.style.backgroundColor = buttonClickedColor
     } else {
-        activebutton.style.backgroundColor = "gray"
+        activebutton.style.backgroundColor = buttonReleasedColor
     }
 
     //gets list of active filters
@@ -134,7 +137,7 @@ function togglefilter(tag) {
     buttonp = document.getElementById("buttons")
     buttons = buttonp.getElementsByTagName("input")
     for (const button of buttons) {
-        if (button.style.backgroundColor == "blue") {
+        if (button.style.backgroundColor == buttonClickedColor) {
             enabledtags.push(button.value)
         }
     }
