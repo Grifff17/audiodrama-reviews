@@ -69,7 +69,6 @@ function displayAudiodramas(event) {
             checkbox.type = "checkbox"
             checkbox.name = "test"
             checkbox.value = "test"
-            checkbox.id = `ad${audiodrama["id"]}`
             let selector = document.createElement("td")
             selector.appendChild(checkbox)
             let name = document.createElement('td')

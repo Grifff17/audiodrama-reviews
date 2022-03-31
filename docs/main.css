@@ -22,8 +22,9 @@ table {
     background-color: #323266;
 }
 
-#tableitem {
-    background-color: #323266;
+td, th {
+    background-color: #323266; 
+    border: 1px solid #626262;
 }
 
 input[type=text] {
@@ -45,6 +46,12 @@ input[type=button] {
 }
 
 input[type=checkbox] {
-    width: 19px;
     height: 19px;
+    width: 19px;
+    margin: auto;
+    display: block;
+}
+
+a {
+    color: rgb(230, 230, 230)
 }

@@ -71,6 +71,17 @@
                 "romance",
                 "complete"
             ]
+        },
+
+        {
+            "id": 6,
+            "name": "Alba Salix, Royal Physician",
+            "rating": "7",
+            "review": " is a comedy audiodrama about the doctor's office in a fairytale kingdom. Also on the same feed is their spin-off The Axe & Crown, which is about a tavern in the same city. Both shows are pretty good, with a memorable cast of characters.",
+            "tags": [
+                "fantasy",
+                "comedy"
+            ]
         }
     ]
 }
