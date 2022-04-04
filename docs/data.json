@@ -82,6 +82,44 @@
                 "fantasy",
                 "comedy"
             ]
+        },
+
+        {
+            "id": 7,
+            "name": "The Ballad of Anne & Mary",
+            "rating": "8",
+            "review": " is a musical audiodrama about the lives of the pirates Anne Bonny and Mary Read, and a journalist who wants to tell their story. Anne and Mary have been captured by the British and and set to be hanged, and Nathaniel is allowed to see them before they are hanged, and asks them for the truth about their lives.  This is a great musical with some really fun pirate songs. It tells a well written romance story too.",
+            "tags": [
+                "musical",
+                "queer",
+                "romance",
+                "complete"
+            ]
+        },
+
+        {
+            "id": 8,
+            "name": "Brimstone Valley Mall",
+            "rating": "8",
+            "review": " is a comedy about a group of demons from hell who hang out in a shopping mall in 1999, trying to get gigs for their band. They are set to play at hell's y2k concert in 2 weeks when their lead vocalist goes missing. The setting is similar to the book/tv show Good Omens, but with a focus on demons and late 90s goth culture. Brimstone Valley Mall is very funny, and the story is engaging. However, it ended the first season on a cliffhanger, and from what I've heard its not getting a second season.",
+            "tags": [
+                "supernatural",
+                "comedy",
+                "queer"
+            ]
+        },
+
+        {
+            "id": 9,
+            "name": "Dear Liisphyra",
+            "rating": "7.5",
+            "review": " is an advice radio show set in a classic d&d fantasy setting. Liisphyra is a young elf who hosts an advice hour from the Towering Forest radio station, and people with problems write or call in to the show with their fantastical problems. This is a great light audiodrama which is very relaxing, with not much in the way of ongoing plot.",
+            "tags": [
+                "fantasy",
+                "comedy",
+                "queer"
+            ]
         }
+
     ]
 }
