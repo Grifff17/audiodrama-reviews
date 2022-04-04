@@ -21,8 +21,8 @@ function displayAudiodramas(event) {
 
         //sorts audiodramas by rating
         audiodramas.sort(function(a,b) {
-            let keyA = parseInt(a["rating"])
-            let keyB = parseInt(b["rating"])
+            let keyA = parseFloat(a["rating"])
+            let keyB = parseFloat(b["rating"])
             if (keyA < keyB) return 1
             if (keyA > keyB) return -1
             return 0
