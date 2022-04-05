@@ -1,6 +1,7 @@
 body {
     color: rgb(230, 230, 230);
     background-color: #323232;
+    font-family: Helvetica, Arial, sans-serif;
 }
 
 header, footer, main {
