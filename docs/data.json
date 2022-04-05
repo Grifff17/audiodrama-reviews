@@ -7,6 +7,7 @@
         "musical",
         "queer",
         "romance",
+        "actual play",
         "complete"
     ],
     "audiodramas" : [
@@ -17,8 +18,7 @@
             "review": " is a sci-fi audiodrama about the crew of a smuggler ship travelling around the universe on the run from the evil human government, trying to solve the mystery of what happened to Starship Iris. It's similar to the TV show Firefly, and one of my all-time favorite audiodramas. It has a very good cast of (almost all queer) characters, which is one of its main strengths. It's also very funny at times, though the plot is serious.",
             "tags": [
                 "sci-fi",
-                "queer",
-                "romance"
+                "queer"
             ]
         },
 
@@ -51,7 +51,7 @@
             "id": 4,
             "name": "Fall of the House of Sunshine",
             "rating": "8.5",
-            "review": " is an absurdist musical comedy about a cult of dentists, living puppets, and the murder of a kids tv show host through a rip in space time. That’s the first season, at least. If you like musicals and completely absurd plots along with some surprisingly good worldbuilding, this is the audiodrama for you. Some of the songs are really good, and the show keeps up it high quality through 3 seasons.",
+            "review": " is an absurdist musical comedy about a cult of dentists, living puppets, and the murder of a kids tv show host through a rip in space time. That’s the first season, at least. If you like musicals and completely absurd plots along with some surprisingly good worldbuilding and themes, this is the audiodrama for you. Some of the songs are really good, and the show keeps up it high quality through 3 seasons.",
             "tags": [
                 "supernatural",
                 "comedy",
@@ -119,7 +119,222 @@
                 "comedy",
                 "queer"
             ]
-        }
+        },
 
+        {
+            "id": 10,
+            "name" : "Mission to Zyxx",
+            "rating": "7",
+            "review": " is an improv comedy podcast about the incompetent crew of a diplomacy spaceship flying around the galaxy having adventures. Each episode is roughly planned out before recording, but most of it is improvised. It is pretty funny, though it does take a few episodes for it to hit its stride.",
+            "tags": [
+                "sci-fi",
+                "comedy",
+                "queer"
+            ]
+        },
+
+        {
+            "id": 11,
+            "name" : "The Once and Future nerd",
+            "rating": "9",
+            "review": " is a very well done fantasy podcast about 3 modern teenagers who get transported to a fantasy world. While the characters are initially stereotypes (nerd, jock, cheerleader) they have massive character growth and characterization. All the characters, those three and the others, are very well written, particularly the villains. The Once and Future Nerd does an amazing job of having both comedy and a serious, real-worldrelevant, plot, which it balances very well. The podcast is split into chapter and books, with each chapter being 4 or 5 episodes, which gives it the feel of a classic fantasy novel. I'd recommend getting at least a little ways into the second chapter, as that is when the story picks up.",
+            "tags": [
+                "fantasy",
+                "queer"
+            ]
+        },
+
+        {
+            "id": 12,
+            "name" : "The Stench of Adventure",
+            "rating": "7.5",
+            "review": " is a sci-fi comedy about a woman who discovers that her entire world was a simulation and joins the crew of an intergalactic garbage collection spaceship. The Stench of Adventure is a good comedy podcast in the vein of Hitchhikers Guide to the Galaxy, but with slightly more focus on characters and plot.",
+            "tags": [
+                "sci-fi",
+                "comedy"
+            ]
+        },
+
+        {
+            "id": 13,
+            "name" : "Electromancy",
+            "rating": "8",
+            "review": " is a podcast about an electromancer, a girl who can control electricity, who gets sent to a magic school, set in a world with some modern technology in addition to magic. This is a good magic school adventure story, in the same vein as Harry Potter or The Name of the Wind. I really like the magic system of the world.",
+            "tags": [
+                "fantasy"
+            ]
+        },
+
+        {
+            "id": 14,
+            "name" : "Elixir",
+            "rating": "6.5",
+            "review": " is a prohibition-inspired fantasy podcast about an upper class woman forced to descend into the magical speakeasies of the underbelly of the city to find her missing sister. My opinions on this podcast are mixed. On the one hand, the setting is really interesting, and I liked the characters, but on the other hand its mostly narrated, and is closer to an audiobook than an audiodrama. A lot of Realm (the studio that made this show) podcasts fall into this, so I hesitate to recommend them to people who are looking for actual audiodramas.",
+            "tags": [
+                "fantasy",
+                "queer",
+                "romance",
+                "complete"
+            ]
+        },
+
+        {
+            "id": 15,
+            "name" : "EOS 10",
+            "rating": "8",
+            "review": " is a sci-fi comedy about the medical staff of a large space station. It's similar to Star Trek: Deep Space Nine if the doctor was the main character. This podcast is very funny, and frequently had me laughing out loud.",
+            "tags": [
+                "sci-fi",
+                "comedy",
+                "queer",
+                "complete"
+            ]
+        },
+
+        {
+            "id": 16,
+            "name" : "The Flame",
+            "rating": "6.5",
+            "review": " is a musical rom-com about the owner of a gay bar falling in love with the woman trying to evict her. It's a pretty standard rom-com, with all the classic rom-com tropes, but made queer. Some of the songs are pretty catchy, and what other podcast would have someone sing a song about how they are asexual and aromatic and don’t need a partner to be happy.",
+            "tags": [
+                "comedy",
+                "musical",
+                "queer",
+                "romance",
+                "complete"
+            ]
+        },
+
+        {
+            "id": 17,
+            "name" : "Forgive Me!",
+            "rating": "7.5",
+            "review": " is a comedy about what goes on in the confession booth of a catholic priest in a small town in rural America. I like this audiodrama, the main character, a young, progressive priest, is likeable and the antics of the town are very entertaining.",
+            "tags": [
+                "comedy"
+            ]
+        },
+
+        {
+            "id": 18,
+            "name" : "Going Lowbrow",
+            "rating": "4",
+            "review": " is a comedy audiodrama about a prince who is forced to go live in a small town with a family of peasants. This podcast had a good premise, but it only has a few episodes out and has been abandoned for years at this point.",
+            "tags": [
+                "fantasy",
+                "comedy"
+            ]
+        },
+
+        {
+            "id": 19,
+            "name" : "Harbor",
+            "rating": "8",
+            "review": " is an audiodrama about the Department of Cryptid Affairs in a rural town. This podcast is less focused on cryptids and more on character and emotion drama, with some of the characters being cryptids. I love stories focused on characters and the relationships between them, and this podcast hits that spot. It is very good, and the villain in particular is very well written, in a way that makes you completely hate him.",
+            "tags": [
+                "supernatural",
+                "queer"
+            ]
+        },
+
+        {
+            "id": 20,
+            "name" : "Hit the Bricks",
+            "rating": "7.5",
+            "review": " is a musical podcast set in the world of The Wizard of Oz 100 years later, when the grandchildren of Dorothy travel to Oz, but something is wrong in the world. This is a child-friendly adventure audiodrama, but its still good to listen to as an adult. It has less of a focus on being musical than other musical podcasts here, there's about 1 song per episode rather than several.",
+            "tags": [
+                "fantasy",
+                "musical"
+            ]
+        },
+
+        {
+            "id": 21,
+            "name" : "The Hitchhiker's Guide to the Galaxy (original radio drama)",
+            "rating": "7.5",
+            "review": " is the original radio drama version of the book series The Hitchhikers Guide to the Galaxy. It's interesting to see how the original story differs from the books. Since it was a radio drama written from week to week, the plot is less coherent, but I personally liked it more than the books. The voice acting and delivery of the jokes makes some of them much funnier than they are in the book.",
+            "tags": [
+                "sci-fi",
+                "comedy",
+                "complete"
+            ]
+        },
+
+        {
+            "id": 22,
+            "name" : "In Strange Woods",
+            "rating": "7.5",
+            "review": " is a musical audiodrama about a girl in a town in Minnesota, who decides to learn to survive when her older brother freezes to death in the snow. The podcast is framed as a documentary, with the host who interviews people being one of the characters in the show. This podcast is different in tone than most of the ones here, but it's very good.",
+            "tags": [
+                "musical",
+                "complete"
+            ]
+        },
+
+        {
+            "id": 23,
+            "name" : "Less is Mourge",
+            "rating": "8",
+            "review": " is a comedy about a ghost and the ghoul who ate her corpse starting a podcast, set in an alternate version of Florida where the supernatural is commonplace.  This is a great comedy that frequently references modern internet culture and has some really good moments.",
+            "tags": [
+                "supernatural",
+                "comedy",
+                "queer"
+            ]
+        },
+
+        {
+            "id": 24,
+            "name" : "Lights Out",
+            "rating": "7",
+            "review": " is a comedy about two fruitbats who live in a zoo, but inexplicably have access to smartphones and the internet. This pretty short audiodrama is surprisingly touching, though the sound quality isn't amazing. Note that there are multiple podcasts with this name, but this one is relatively easy to find because it’s the only one that isn't horror.",
+            "tags": [
+                "comedy",
+                "complete"
+            ]
+        },
+
+        {
+            "id": 25,
+            "name" : "Little Did I Know",
+            "rating": "6.5",
+            "review": " is a musical about a theater student fresh out of college who takes on a job running a small-town theater for a summer. This was an alright musical, but I didn't really like the general vibes of the show.",
+            "tags": [
+                "musical",
+                "complete"
+            ]
+        },
+
+        {
+            "id": 26,
+            "name" : "Me and AU",
+            "rating": "6",
+            "review": " is a queer love story about two Tumblr users who fall in love over their shared interest in an obscure TV show. This show heavily references Tumblr culture, and if you don’t use the website you won't get as much out of it. That was my experience with the show, though I'm sure an avid tumblr user would enjoy it more.",
+            "tags": [
+                "queer",
+                "romance",
+                "complete"
+            ]
+        },
+
+        {
+            "id": 27,
+            "name" : "Midnight Burger",
+            "rating": "9.5",
+            "review": " is a sci-fi audiodrama about a time-travelling, dimension-spanning diner than appears somewhere in the multiverse every day, complete with a sentient old-timey radio. The characters include a nihilist scientist, a chef with a past as a genius engineer, and a couple of old-timey Christian radio show hosts. This is one of my all-time favorite audiodramas. It is well-written, funny, and has some really good sci-fi. The characters are all very good, and the ongoing plot is great.",
+            "tags": [
+                "sci-fi"
+            ]
+        },
+
+        {
+            "id": 28,
+            "name" : "Mission Rejected",
+            "rating": "10",
+            "review": " is a comedy spy podcast about the backup spies who get the missions turned down by the superspy. This is my all-time favorite comedy podcast, it's style of humor consistently lands with me. It frequently has me laughing out loud. Each episode the main characters get a ridiculous spy mission they have to carry out, with the main plot progressing in the pre-intro and post-credit scenes.",
+            "tags": [
+                "comedy"
+            ]
+        }
     ]
 }
