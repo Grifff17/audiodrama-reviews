@@ -34,11 +34,12 @@ function displayAudiodramas(event) {
         let listHeader = document.createElement('tr')
         listHeader.id = "tableheader"
         let selectHeader = document.createElement('th')
-        selectHeader.appendChild(document.createTextNode("Select"))
+        selectHeader.appendChild(document.createTextNode(" "))
         selectHeader.style.width = "30px"
+        selectHeader.id = "checkboxcell"
         let nameHeader = document.createElement('th')
         nameHeader.appendChild(document.createTextNode("Name"))
-        nameHeader.style.width = "100px"
+        nameHeader.style.width = "120px"
         let reviewHeader = document.createElement('th')
         reviewHeader.appendChild(document.createTextNode("Review"))
         reviewHeader.style.width = "auto"
@@ -47,7 +48,7 @@ function displayAudiodramas(event) {
         ratingHeader.style.width = "30px"
         let tagsHeader = document.createElement('th')
         tagsHeader.appendChild(document.createTextNode("Tags"))
-        tagsHeader.style.width = "30px"
+        tagsHeader.style.width = "100px"
 
         listHeader.appendChild(selectHeader)
         listHeader.appendChild(nameHeader)
@@ -70,6 +71,7 @@ function displayAudiodramas(event) {
             checkbox.name = "test"
             checkbox.value = "test"
             let selector = document.createElement("td")
+            selector.id = "checkboxcell"
             selector.appendChild(checkbox)
             let name = document.createElement('td')
             let boldname = document.createElement("b")

@@ -10,22 +10,32 @@ header, footer, main {
     margin-bottom: 8px;
 }
 
+#main p {
+    border-left: 42px solid #323232;
+}
+
 #header, #footer, #main {
     border: 4px solid #323232;
     border-radius: 8px;
+    padding: 4px;
 }
 
 table {
     text-align: left;
-}
-
-#tableheader {
-    background-color: #323266;
+    border-collapse: collapse;
+    border-right: 16px solid #323232;
 }
 
 td, th {
-    background-color: #323266; 
-    border: 1px solid #626262;
+    background-color: rgb(4,4,125); 
+    padding: 4px;
+    border-bottom: 4px solid #323232;
+    border-right: 4px solid #323232;
+    vertical-align: top;
+}
+
+#checkboxcell {
+    background-color: #323232;
 }
 
 input[type=text] {
