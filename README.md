@@ -1,10 +1,10 @@
-# Audiodrama database (better name pending)
+# Grifff's Audiodrama Catalog
 
-WIP database of audiodramas I have listened to.
+Database of audiodramas I have listened to.
 
 **Project Specifications**
 
-Every audiodrama I have listened to will be in the database.
+Every audiodrama I have listened that I would reccomend is in the database.
 
 Each audiodrama has:
 - name
@@ -17,5 +17,3 @@ Database is searchable by name and tags
 There is a way to select multiple audiodramas, and a button that copies the description of all selected audiodramas to the clipboard.
 
 There is an easy way for me to add audiodramas to the database.
-
-There will be a number stating how many audiodramas are shown out of how many are in the database.
