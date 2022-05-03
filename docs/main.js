@@ -165,7 +165,7 @@ function togglefilter(tag) {
     document.getElementById("namesearch").value = ""
 }
 
-//copies all selected audiodrama descriptions to clipboard with markup
+//copies all selected audiodrama descriptions to clipboard
 function copyselected() {
     let table = document.getElementById("ADtable")
     let rows = table.getElementsByTagName("tr")

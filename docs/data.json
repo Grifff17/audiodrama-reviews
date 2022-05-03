@@ -53,22 +53,11 @@
             "rating": "8.5",
             "review": " is an absurdist musical comedy about a cult of dentists, living puppets, and the murder of a kids tv show host through a rip in space time. That’s the first season, at least. If you like musicals and completely absurd plots along with some surprisingly good worldbuilding and themes, this is the audiodrama for you. Some of the songs are really good, and the show keeps up it high quality through 3 seasons.",
             "tags": [
+                "sci-fi",
                 "supernatural",
                 "comedy",
                 "musical",
                 "queer",
-                "complete"
-            ]
-        },
-
-        {
-            "id": 5,
-            "name": "36 Questions",
-            "rating": "4",
-            "review": " is a short musical audiodrama about a couple trying to save their marriage. I wasn't a huge fan of this audiodrama. Despite being a fan of musicals it didn't really resonate with me. I also prefer long-form stories over shorter ones regardless of medium, so this missed the mark on that front.",
-            "tags": [
-                "musical",
-                "romance",
                 "complete"
             ]
         },
@@ -162,7 +151,8 @@
             "rating": "8",
             "review": " is a podcast about a young electromancer, a girl who can control electricity, who gets sent to a magic school, set in a world with modern technology in addition to magic. This is a good magic school adventure story, in the same vein as Harry Potter or The Name of the Wind. I really like the magic system of the world.",
             "tags": [
-                "fantasy"
+                "fantasy",
+                "queer"
             ]
         },
 
@@ -196,7 +186,7 @@
             "id": 16,
             "name" : "The Flame",
             "rating": "6.5",
-            "review": " is a musical rom-com about the owner of a gay bar falling in love with the woman trying to evict her. It's a pretty standard rom-com, with all the classic rom-com tropes, but made queer. Some of the songs are pretty catchy, and what other podcast would have someone sing a song about how they are asexual and aromatic and don’t need a partner to be happy.",
+            "review": " is a musical rom-com about the owner of a gay bar falling in love with the woman trying to evict her. It's a pretty standard rom-com, with all the classic rom-com tropes, but made queer. ",
             "tags": [
                 "comedy",
                 "musical",
@@ -212,17 +202,6 @@
             "rating": "7.5",
             "review": " is a comedy about what goes on in the confession booth of a catholic priest in a small town in rural America. The main character, a young, progressive priest, is likeable and the antics of the town are very entertaining.",
             "tags": [
-                "comedy"
-            ]
-        },
-
-        {
-            "id": 18,
-            "name" : "Going Lowbrow",
-            "rating": "4",
-            "review": " is a comedy audiodrama about a prince who is forced to go live in a small town with a family of peasants. This podcast had a good premise, but it only has a few episodes out and has been abandoned for years at this point.",
-            "tags": [
-                "fantasy",
                 "comedy"
             ]
         },
@@ -303,18 +282,6 @@
             "review": " is a musical about a theater student with big dreams fresh out of college who takes on a job running a small-town musical theater as a summer job.",
             "tags": [
                 "musical",
-                "complete"
-            ]
-        },
-
-        {
-            "id": 26,
-            "name" : "Me and AU",
-            "rating": "6",
-            "review": " is a queer love story about two Tumblr users who fall in love over their shared interest in an obscure TV show. This show heavily references Tumblr culture, and if you don’t use the website you won't get as much out of it. That was my experience with the show, though I'm sure an avid tumblr user would enjoy it more.",
-            "tags": [
-                "queer",
-                "romance",
                 "complete"
             ]
         },
@@ -531,19 +498,6 @@
             "tags": [
                 "sci-fi",
                 "comedy"
-            ]
-        },
-
-        {
-            "id": 45,
-            "name" : "When Angels Visit Armadillo",
-            "rating": "6",
-            "review": " is an audiodrama about a woman investigating what happened in a small town 20 years ago when two people were abducted by something before being returned. To be honest I was somewhat underwhelmed by the ending of this podcast, but the rest of it was good",
-            "tags": [
-                "supernatural",
-                "queer",
-                "romance",
-                "complete"
             ]
         },
 
