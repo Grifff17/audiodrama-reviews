@@ -522,6 +522,18 @@
                 "comedy",
                 "queer"
             ]
+        },
+
+        {
+            "id": 48,
+            "name" : "The Bright Sessions",
+            "rating": "9",
+            "review": " is an audiodrama that starts out as therapy for people with supernatural abilities. However, after the first season there is a very good ongoing plot that moves away from the original premise of the show. As you would expect for a show about therapy, it focuses heavily on the characters feelings and emotions after major plot events. It ends after 5 seasons, but there are two spin-off shows about the same characters on the same feed. The later seasons and the spin-offs are very good.",
+            "tags": [
+                "supernatural",
+                "queer",
+                "romance"
+            ]
         }
     ]
 }
