@@ -138,10 +138,11 @@
             "id": 12,
             "name" : "The Stench of Adventure",
             "rating": "7.5",
-            "review": " is a sci-fi comedy about a woman who discovers that her entire world was a simulation and joins the crew of an intergalactic garbage collection spaceship. The Stench of Adventure is a fun comedy podcast in the vein of Hitchhikers Guide to the Galaxy, but with slightly more focus on characters and plot.",
+            "review": " is a sci-fi comedy about a woman who discovers that her entire world was a simulation and joins the crew of an intergalactic garbage collection spaceship. The Stench of Adventure is a fun comedy podcast in the vein of Hitchhikers Guide to the Galaxy, but with more of a focus on characters and plot.",
             "tags": [
                 "sci-fi",
-                "comedy"
+                "comedy",
+                "queer"
             ]
         },
 
