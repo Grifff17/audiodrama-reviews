@@ -311,7 +311,7 @@
             "id": 29,
             "name" : "My Town",
             "rating": "7.5",
-            "review": " is a comedy audiodrama about a kid who started a travel podcast about his small town to help get business for his family's candle shop. However, he can also read minds. This show does a good job of being a mostly light podcast with an interesting ongoing plot.",
+            "review": " is a comedy audiodrama about a kid who started a travel podcast about his small town to help get business for his family's candle shop. The twist it that he can also read minds. This show does a good job of being a mostly light podcast with an interesting ongoing plot.",
             "tags": [
                 "supernatural",
                 "comedy"
@@ -411,7 +411,7 @@
             "id": 37,
             "name" : "Second Fiddles",
             "rating": "7.5",
-            "review": " is a comedy about a support group for superhero's sidekicks. Most of them have superpowers that aren't particularly useful. The main cast of characters are fun and enjoyable. This show has a somewhat odd sense of humor(why do the censor all the swearing in a podcast with so many adult jokes?) which I enjoyed, particularly all the punny superhero/villain names.",
+            "review": " is a comedy about a support group for superhero's sidekicks. Most of them have superpowers that aren't particularly useful. The main cast of characters are fun and enjoyable. This show has a somewhat odd sense of humor(why do the censor all the swearing in a podcast with so many dirty jokes?) which I enjoyed, particularly all the punny superhero/villain names.",
             "tags": [
                 "supernatural",
                 "comedy",
@@ -536,6 +536,38 @@
                 "queer",
                 "romance",
                 "complete"
+            ]
+        },
+
+        {
+            "id": 49,
+            "name" : "Marigold Breach",
+            "rating": "8",
+            "review": " is a sci-fi audiodrama about a soldier who lost his memory and the AI in his head on a semi-terraformed planet. This show stands out for having a well-known cast, with the main characters being played by Jameela Jamil and Manny Jacinto of The Good Place. I really liked the worldbuilding of this show.",
+            "tags": [
+                "sci-fi"
+            ]
+        },
+
+        {
+            "id": 50,
+            "name" : "Liminal Criminals",
+            "rating": "8",
+            "review": " is a \"fake crime\" podcast, a fiction podcast in the style of true crime about crimes that are entirely made up. There is also coherent worldbuilding going on in the background of the world the podcast is set in, which differs from our own in several key ways.",
+            "tags": [
+                "supernatural",
+                "comedy"
+            ]
+        },
+
+        {
+            "id": 51,
+            "name" : "Batman: The Audio Adventures",
+            "rating": "9",
+            "review": " is an official Batman audiodrama, produced by HBO. It is in the style of the Batman animated series, with a noir pulp tone. It has the vibes of an old radio drama, which is done very well. The story focuses a lot on the various Batman villains, with more time spent focused on the villains than Batman himself. I particularly like this show's interpretation of Two-Face.",
+            "tags": [
+                "supernatural",
+                "comedy"
             ]
         }
     ]
