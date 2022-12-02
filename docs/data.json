@@ -37,7 +37,7 @@
         {
             "id": 3,
             "name": "Second Star to the Left",
-            "rating": "9.5",
+            "rating": "10",
             "review": " is a story about Gwen, the first person to start colonizing a planet. She will be alone for 5 years before any other colonists arrive. However, it turns out that she is not totally alone, due to Bell, her scout-minder, whose job it is to talk to her every day from a nearby space station so she doesn't go insane. Second Star to the Left is an amazing story about two people and the relationship they form with each other, and one of my all-time favorite audiodramas.",
             "tags": [
                 "sci-fi",
@@ -137,7 +137,7 @@
         {
             "id": 12,
             "name" : "The Stench of Adventure",
-            "rating": "7.5",
+            "rating": "8.5",
             "review": " is a sci-fi comedy about a woman who discovers that her entire world was a simulation and joins the crew of an intergalactic garbage collection spaceship. The Stench of Adventure is a fun comedy podcast in the vein of Hitchhikers Guide to the Galaxy, but with more of a focus on characters and plot.",
             "tags": [
                 "sci-fi",
@@ -223,7 +223,7 @@
             "id": 20,
             "name" : "Hit the Bricks",
             "rating": "7.5",
-            "review": " is a musical podcast set in the world of The Wizard of Oz 100 years later, when the grandchildren of Dorothy travel to Oz, but something is wrong in the world. This is a child-friendly adventure audiodrama, but its still good to listen to as an adult. It has less of a focus on being musical than other musical podcasts here, there's about 1 song per episode rather than several.",
+            "review": " is a musical podcast set in the world of The Wizard of Oz 100 years later, when the grandchildren of Dorothy travel to Oz, but something is wrong in the world. This is a child-friendly adventure audiodrama, but its still good to listen to as an adult. It has less of a focus on being musical than other musical podcasts, there's one or two songs per episode rather than several.",
             "tags": [
                 "fantasy",
                 "musical"
@@ -290,7 +290,7 @@
         {
             "id": 27,
             "name" : "Midnight Burger",
-            "rating": "9.5",
+            "rating": "10",
             "review": " is a sci-fi audiodrama about a time-travelling, dimension-spanning diner than appears somewhere in the multiverse every day, complete with a sentient old-timey radio. The characters include a nihilist scientist, a chef with a past as a genius engineer, and a couple of old-timey Christian radio show hosts. This is one of my all-time favorite audiodramas. It is well-written, funny, and has some really good sci-fi. The characters are all very good, and the ongoing plot is great.",
             "tags": [
                 "sci-fi"
@@ -334,7 +334,7 @@
         {
             "id": 31,
             "name" : "The Pasithea Powder",
-            "rating": "8.5",
+            "rating": "9",
             "review": " is a sci-fi podcast about the aftermath of a war and how it affected two women, along with the pasithea powder, the mind control drug that ended the war. The first season is told as an epistolary, through the voicemails between the main characters, which they somewhat move away from in the second season. This podcast has a heavy focus on emotional drama and the relationship between the two main characters, a war hero stuck doing reparations and a scientist under house arrest for treason.",
             "tags": [
                 "sci-fi",
@@ -398,7 +398,7 @@
         {
             "id": 36,
             "name" : "SCP: Find Us Alive",
-            "rating": "9",
+            "rating": "9.5",
             "review": " is an audiodrama about an SCP facility that is shifted into a pocket dimension by the anomaly it is studying, and the staff have to survive, dealing with each other and the anomaly that shifted them doing strange things. This show is best if you are familiar with the SCP universe, but only a passing understanding is necessary to enjoy it. The short description of the universe is that the SCP foundation is a secret organization that contains anomalous objects and people and keeps them secure and secret. The 5 main characters are all great, particularly Agent Love and Officer Raddagher.",
             "tags": [
                 "supernatural",
@@ -459,7 +459,7 @@
             "id": 41,
             "name" : "True Tales of the Illuminati",
             "rating": "7.5",
-            "review": " is a short comedy audiodrama about the bottom level employees of the Illuminati, working in ancient Egypt to make sure conspiracies happen according to plans. This audiodrama is very funny, the jokes consistently land. I just wish it was more than a few episodes long.",
+            "review": " is a short comedy audiodrama about the bottom level employees of the Illuminati, working in ancient Egypt to make sure conspiracies happen according to plans. This audiodrama is very funny, the jokes consistently land. I just wish the seasons were more than a few episodes long.",
             "tags": [
                 "supernatural",
                 "comedy"
@@ -568,6 +568,65 @@
             "tags": [
                 "supernatural",
                 "comedy"
+            ]
+        },
+
+        {
+            "id": 52,
+            "name" : "Keep it Steady",
+            "rating": "7.5",
+            "review": " is a queer romcom set in a small conservative town in 2005 about two guys who pretend to date to take the heat off of another gay couple at their school who are getting bullied. I really enjoyed this audiodrama, but it unfortunately has a very slow release schedule.",
+            "tags": [
+                "comedy",
+                "queer",
+                "romance"
+            ]
+        },
+
+        {
+            "id": 53,
+            "name" : "The Mechanisms",
+            "rating": "8.5",
+            "review": " is technically a band, not an audiodrama, but I think they count. Each album by the Mechanisms is a musical story using a combination of songs and narration/dialogue that reimagines myths or folk stories in a sci-fi setting. For example, High Noon Over Camelot is the story of King Arthur as a cowboy, set on a massive space station. Because they are albums, none of them are very long, but they are all very good.",
+            "tags": [
+                "sci-fi",
+                "musical",
+                "queer",
+                "complete"
+            ]
+        },
+
+        {
+            "id": 54,
+            "name" : "Look Up",
+            "rating": "8",
+            "review": " is a queer romance coming-of-age story about two boys whose parents are astronauts on a long-term mars mission. Each night the boys meet on the beach and stargaze, working through the issues that they both have and feelings that their moms abandoned them. This is a great show and I really liked the characters.",
+            "tags": [
+                "queer",
+                "romance",
+                "complete"
+            ]
+        },
+
+        {
+            "id": 55,
+            "name" : "Modes of Thought in Anterran Literature",
+            "rating": "8",
+            "review": " are the recorded university lectures of the class Modes of Thought in Anterran Literature, a class about the recently discovered ancient civilization of Anterra. However, the professor has a shady background, and many of the students don't even believe Anterra exists… I'm a big fan of fictional ancient myths, so I loved this show.",
+            "tags": [
+                "supernatural",
+                "queer"
+            ]
+        },
+
+        {
+            "id": 56,
+            "name" : "Rebel Robin: Surviving Hawkins",
+            "rating": "7.5",
+            "review": " is an official Stranger Things audiodrama about the character Robin. The show is set during the first few seasons of Stranger Things, and shows Robin befriending one of her teachers and thinking about her future. I enjoyed this podcast, but you have to like Stranger Things in order to listen to this show.",
+            "tags": [
+                "queer",
+                "complete"
             ]
         }
     ]
