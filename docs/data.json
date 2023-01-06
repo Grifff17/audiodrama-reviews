@@ -8,6 +8,7 @@
         "queer",
         "romance",
         "actual play",
+        "kid-friendly",
         "complete"
     ],
     "audiodramas" : [
@@ -226,7 +227,8 @@
             "review": " is a musical podcast set in the world of The Wizard of Oz 100 years later, when the grandchildren of Dorothy travel to Oz, but something is wrong in the world. This is a child-friendly adventure audiodrama, but its still good to listen to as an adult. It has less of a focus on being musical than other musical podcasts, there's one or two songs per episode rather than several.",
             "tags": [
                 "fantasy",
-                "musical"
+                "musical",
+                "kid-friendly"
             ]
         },
 
@@ -477,6 +479,7 @@
                 "musical",
                 "queer",
                 "romance",
+                "kid-friendly",
                 "complete"
             ]
         },
@@ -627,6 +630,17 @@
             "tags": [
                 "queer",
                 "complete"
+            ]
+        },
+
+        {
+            "id": 57,
+            "name" : "Unwell: A Midwest Gothic Mystery",
+            "rating": "8.5",
+            "review": " is pretty much what it says in the title, a spooky audiodrama set in the small town of Mt. Absalom, Ohio. This podcast is not horror, it has spooky elements but is more focused on characters and the overarching mystery than horror. This podcast is a bit slow at the beginning, but I was hooked by the end of the first season and binged the next three in a week.",
+            "tags": [
+                "supernatural",
+                "queer"
             ]
         }
     ]
