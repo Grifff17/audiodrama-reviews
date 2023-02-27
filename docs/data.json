@@ -305,7 +305,8 @@
             "rating": "10",
             "review": " is a comedy spy podcast about the backup spies who get the missions turned down by the superspy. This is my all-time favorite comedy podcast, it's style of humor consistently lands with me. It frequently has me laughing out loud. Each episode the main characters get a ridiculous spy mission they have to carry out, with the main plot progressing in the pre-intro and post-credit scenes.",
             "tags": [
-                "comedy"
+                "comedy",
+                "queer"
             ]
         },
 
@@ -341,7 +342,8 @@
             "tags": [
                 "sci-fi",
                 "queer",
-                "romance"
+                "romance",
+                "complete"
             ]
         },
 
@@ -641,6 +643,40 @@
             "tags": [
                 "supernatural",
                 "queer"
+            ]
+        },
+
+        {
+            "id": 58,
+            "name" : "This Planet Needs a Name",
+            "rating": "8",
+            "review": " is a sci-fi podcast about the crew of people sent to ready a new planet for human habitation. It does something I've never seen before in an audiodrama by having the voice actor for each character help write that character, which makes the cast feel very real and fleshed out. They also focuses a lot on the relationships between the crew. Right around the time this show hooked me I ran out of new episodes to listen to, their release schedule is unfortunately very slow.",
+            "tags": [
+                "sci-fi",
+                "queer"
+            ]
+        },
+
+        {
+            "id": 59,
+            "name" : "Welcome to Nightvale",
+            "rating": "6.5",
+            "review": " is a classic, well-known, surreal audiodrama that consists of bi-weekly radio updates from the small town of Nightvale. It started in 2012, and has released an episode every 2 weeks since then, with no sign of stopping. If you listen to any audiodramas, you have probably heard of Nightvale. I personally got tired of the show around 50 episodes in, the very slow plot happening in the background not being enough to keep me interested.",
+            "tags": [
+                "supernatural",
+                "comedy",
+                "queer"
+            ]
+        },
+
+        {
+            "id": 60,
+            "name" : "Midst",
+            "rating": "9",
+            "review": " is a surreal space-western that is unique in so many ways. First of all, it has some of the most unique worldbuilding I have ever seen. The world of Midst is different to ours in every way, with even things like the way light works being different. Another unique factor is that the show is narrated rather than voice-acted, but there are 3 narrators who trade off and interrupt each other constantly, giving the narration an incredibly organic feel. Midst follows 3 morally gray main characters, their plot arcs constantly crossing paths. This show also has bonus content for free on their website, an in-universe document like a textbook or letter to go along with each episode, which really helps to expand the world. This show starts slow, but the plot picks up very quickly later in the first season.",
+            "tags": [
+                "sci-fi",
+                "supernatural"
             ]
         }
     ]
