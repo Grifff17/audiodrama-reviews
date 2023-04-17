@@ -4,7 +4,7 @@ Database of audiodramas I have listened to.
 
 **Project Specifications**
 
-Every audiodrama I have listened that I would reccomend is in the database.
+Every audiodrama I have listened that I would recommend is in the database.
 
 Each audiodrama has:
 - name
