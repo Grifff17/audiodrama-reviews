@@ -461,7 +461,7 @@
             "id": 42,
             "name" : "The Two Princes",
             "rating": "7.5",
-            "review": " is a classic fairytale with a twist. The princes of two kingdoms enter a forest to try to resolve a curse destroying their kingdoms, and meet and fall in love. The later seasons are good too, and the third season is a musical. This is an entertaining child-friendly audiodrama, with my biggest gripe being that it is a Spotify exclusive, which I normally do not use.",
+            "review": " is a classic fairytale with a twist. The princes of two kingdoms enter a forest to try to resolve a curse destroying their kingdoms, and meet and fall in love. The later seasons are good too, and the third season is a musical. The Two Princes is an entertaining and funny audiodrama suitable for all ages.",
             "tags": [
                 "fantasy",
                 "comedy",
@@ -629,7 +629,8 @@
             "review": " is pretty much what it says in the title, a spooky audiodrama set in the small town of Mt. Absalom, Ohio. This podcast is not horror, it has spooky elements but is more focused on characters and the overarching mystery than horror. Unwell is a bit slow at the beginning, but I was hooked by the end of the first season and binged the next three in a week.",
             "tags": [
                 "supernatural",
-                "queer"
+                "queer",
+                "complete"
             ]
         },
 
@@ -676,6 +677,50 @@
                 "fantasy",
                 "queer",
                 "actual play"
+            ]
+        },
+
+        {
+            "id": 62,
+            "name" : "Girl in Space",
+            "rating": "9",
+            "review": "is a sci-fi audiodrama about a woman who has spent her entire life on a spaceship orbiting a star, never talking to anyone other than her parents and the dysfunctional ship AI. I love this show, it has great characters, and the ship itself has some of the best vibes of any spaceship in fiction.",
+            "tags": [
+                "sci-fi",
+                "queer"
+            ]
+        },
+
+        {
+            "id": 63,
+            "name" : "The Tower",
+            "rating": "8",
+            "review": "is a surreal story about a woman who abandons her mundane life to climb the supposedly endless tower in the middle of town. The first season of the show came out pre-pandemic, but the entire show has lockdown vibes, with one of the major themes being how isolating modern life is.",
+            "tags": [
+                "supernatural",
+                "queer"
+            ]
+        },
+
+        {
+            "id": 64,
+            "name" : "Bridgewater",
+            "rating": "8.5",
+            "review": "is a supernatural mystery audiodrama about a folklore professor in a small town investigating the event tied to his fathers disappearance 40 years ago. The characters are all super well written, Jeremy perfectly captures the energy of \"college professor devoted to his job\". ",
+            "tags": [
+                "supernatural",
+                "complete"
+            ]
+        },
+
+        {
+            "id": 65,
+            "name" : "Eeler's Choice",
+            "rating": "8",
+            "review": "is a maritime dark fantasy podcast set in a small town in an alternate 1800s where giant eels roam the seas instead of whales. This show has incredible sound design and really cool original folk music.",
+            "tags": [
+                "fantasy",
+                "queer"
             ]
         }
     ]
