@@ -10,10 +10,12 @@ Each audiodrama has:
 - name
 - rating out of 10
 - short review/description
-- list of tags (musical, sci-fi, comedy, etc.)
+- list of tags (sci-fi, comedy, musical, etc.)
 
-Database is searchable by name and tags
+Audiodramas are sorted by rating.
+
+The database is searchable by name and tags.
 
 There is a way to select multiple audiodramas, and a button that copies the description of all selected audiodramas to the clipboard.
 
-There is an easy way for me to add audiodramas to the database.
+New Audiodramas are added to the database via manual updating of data.json.
