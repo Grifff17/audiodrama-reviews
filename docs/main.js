@@ -87,7 +87,7 @@ function displayAudiodramas(event) {
 
             let image = document.createElement('td')
             let pic = document.createElement('img')
-            pic.src = `images/${audiodrama.name}.webp`
+            pic.src = `images/${audiodrama.id}.webp`
             pic.height = "120"
             pic.width = "120"
             image.appendChild(pic)
