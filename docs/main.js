@@ -170,7 +170,7 @@ function togglefilter(tag) {
     let table = document.getElementById("ADtable")
     let rows = table.getElementsByTagName("tr")
     for (i = 1; i < rows.length; i++) {
-        val = rows[i].getElementsByTagName("td")[5].textContent
+        val = rows[i].getElementsByTagName("td")[4].textContent
         let valid = true
         for (const tag of enabledtags) {
             if (!val.includes(tag)) {
