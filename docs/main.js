@@ -108,7 +108,7 @@ function displayAudiodramas(event) {
             
             listItem.appendChild(selector)
             listItem.appendChild(image)
-            listItem.appendChild(name)
+            // listItem.appendChild(name)
             listItem.appendChild(review)
             listItem.appendChild(rating)
             listItem.appendChild(tags)
