@@ -31,26 +31,37 @@ function displayAudiodramas(event) {
         //creates table and header of table
         let audiodramasList = document.createElement('table')
         audiodramasList.id = "ADtable"
+
         let listHeader = document.createElement('tr')
         listHeader.id = "tableheader"
+
         let selectHeader = document.createElement('th')
         selectHeader.appendChild(document.createTextNode(" "))
         selectHeader.style.width = "30px"
         selectHeader.id = "checkboxcell"
+
+        let imageHeader = document.createElement('th')
+        imageHeader.appendChild(document.createTextNode(" "))
+        imageHeader.style.width = "120px"
+
         let nameHeader = document.createElement('th')
         nameHeader.appendChild(document.createTextNode("Name"))
         nameHeader.style.width = "120px"
+
         let reviewHeader = document.createElement('th')
         reviewHeader.appendChild(document.createTextNode("Review"))
         reviewHeader.style.width = "auto"
+
         let ratingHeader = document.createElement('th')
         ratingHeader.appendChild(document.createTextNode("Rating"))
         ratingHeader.style.width = "30px"
+
         let tagsHeader = document.createElement('th')
         tagsHeader.appendChild(document.createTextNode("Tags"))
         tagsHeader.style.width = "100px"
 
         listHeader.appendChild(selectHeader)
+        listHeader.appendChild(imageHeader)
         listHeader.appendChild(nameHeader)
         listHeader.appendChild(reviewHeader)
         listHeader.appendChild(ratingHeader)
@@ -73,14 +84,22 @@ function displayAudiodramas(event) {
             let selector = document.createElement("td")
             selector.id = "checkboxcell"
             selector.appendChild(checkbox)
+
+            let image = document.createElement('td')
+            let pic = document.createElement('img')
+            pic.src = `images/${audiodrama.name}`
+
             let name = document.createElement('td')
             let boldname = document.createElement("b")
             boldname.appendChild(document.createTextNode(audiodrama.name))
             name.appendChild(boldname)
+
             let review = document.createElement('td')
             review.appendChild(document.createTextNode(`${audiodrama.name}${audiodrama.review}`))
+
             let rating = document.createElement('td')
             rating.appendChild(document.createTextNode(`${audiodrama.rating}/10`))
+
             let tags = document.createElement('td')
             tags.innerHTML = taglist
             

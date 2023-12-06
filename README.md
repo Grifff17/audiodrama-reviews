@@ -18,4 +18,4 @@ The database is searchable by name and tags.
 
 There is a way to select multiple audiodramas, and a button that copies the description of all selected audiodramas to the clipboard.
 
-New Audiodramas are added to the database via manual updating of data.json.
+New audiodramas are added to the database via manual updating of data.json.
