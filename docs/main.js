@@ -88,6 +88,7 @@ function displayAudiodramas(event) {
             let image = document.createElement('td')
             let pic = document.createElement('img')
             pic.src = `images/${audiodrama.name}`
+            image.appendChild(pic)
 
             let name = document.createElement('td')
             let boldname = document.createElement("b")
@@ -104,6 +105,7 @@ function displayAudiodramas(event) {
             tags.innerHTML = taglist
             
             listItem.appendChild(selector)
+            listItem.appendChild(image)
             listItem.appendChild(name)
             listItem.appendChild(review)
             listItem.appendChild(rating)
