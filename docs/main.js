@@ -130,7 +130,7 @@ function namesearchADs() {
 
     //hides items not matching search
     for (i = 1; i < rows.length; i++) {
-        val = rows[i].getElementsByTagName("td")[1].textContent
+        val = rows[i].getElementsByTagName("td")[2].textContent
         if (val.toUpperCase().includes(search)) {
             rows[i].style.display = ""
         } else {

@@ -220,18 +220,6 @@
         },
 
         {
-            "id": 21,
-            "name" : "The Hitchhiker's Guide to the Galaxy",
-            "rating": "7.5",
-            "review": " is the original radio drama version of the book series The Hitchhikers Guide to the Galaxy. It's interesting to see how the original story differs from the books. Since it was a radio drama written from week to week, the plot is less coherent, but I personally liked it more than the books. The voice acting and delivery of the jokes makes some of them much funnier than they are in the book.",
-            "tags": [
-                "sci-fi",
-                "comedy",
-                "complete"
-            ]
-        },
-
-        {
             "id": 22,
             "name" : "In Strange Woods",
             "rating": "7.5",
@@ -251,17 +239,6 @@
                 "supernatural",
                 "comedy",
                 "queer"
-            ]
-        },
-
-        {
-            "id": 24,
-            "name" : "Lights Out",
-            "rating": "7",
-            "review": " is a comedy about two fruitbats who live in a zoo, but inexplicably have access to smartphones and the internet. This pretty short audiodrama is surprisingly touching, though the sound quality isn't amazing. Note that there are multiple podcasts with this name, but this one is relatively easy to find because it’s the only one that isn't horror.",
-            "tags": [
-                "comedy",
-                "complete"
             ]
         },
 
