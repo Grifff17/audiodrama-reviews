@@ -44,9 +44,9 @@ function displayAudiodramas(event) {
         imageHeader.appendChild(document.createTextNode(" "))
         imageHeader.style.width = "120px"
 
-        let nameHeader = document.createElement('th')
-        nameHeader.appendChild(document.createTextNode("Name"))
-        nameHeader.style.width = "120px"
+        // let nameHeader = document.createElement('th')
+        // nameHeader.appendChild(document.createTextNode("Name"))
+        // nameHeader.style.width = "120px"
 
         let reviewHeader = document.createElement('th')
         reviewHeader.appendChild(document.createTextNode("Review"))
@@ -62,7 +62,7 @@ function displayAudiodramas(event) {
 
         listHeader.appendChild(selectHeader)
         listHeader.appendChild(imageHeader)
-        listHeader.appendChild(nameHeader)
+        // listHeader.appendChild(nameHeader)
         listHeader.appendChild(reviewHeader)
         listHeader.appendChild(ratingHeader)
         listHeader.appendChild(tagsHeader)
@@ -88,14 +88,14 @@ function displayAudiodramas(event) {
             let image = document.createElement('td')
             let pic = document.createElement('img')
             pic.src = `images/${audiodrama.id}.webp`
-            pic.height = "120"
-            pic.width = "120"
+            pic.height = "145"
+            pic.width = "145"
             image.appendChild(pic)
 
-            let name = document.createElement('td')
-            let boldname = document.createElement("b")
-            boldname.appendChild(document.createTextNode(audiodrama.name))
-            name.appendChild(boldname)
+            // let name = document.createElement('td')
+            // let boldname = document.createElement("b")
+            // boldname.appendChild(document.createTextNode(audiodrama.name))
+            // name.appendChild(boldname)
 
             let review = document.createElement('td')
             review.appendChild(document.createTextNode(`${audiodrama.name}${audiodrama.review}`))
