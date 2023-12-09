@@ -1,9 +1,9 @@
 :root {
-    --text-color: rgb(230, 230, 230);
-    --background-color: rgb(32, 32, 32);
-    --border-color: rgb(62, 62, 62);
-    --button-clicked-color: rgb(4, 4, 125);
-    --button-released-color: rgb(98, 98, 98);
+    --background-color: rgb(55, 81, 95);
+    --secondary-background-color: rgb(39, 58, 68);
+    --text-color: rgb(234, 222, 218);
+    --border-color: rgb(72, 169, 166);
+    --button-clicked-color: rgb(0, 185, 174);
 }
 
 body {
@@ -39,7 +39,7 @@ td, th {
 }
 
 tr {
-    background-color: var(--border-color);
+    background-color: var(--secondary-background-color);
     border: 4px solid var(--background-color);
 }
 
@@ -56,7 +56,7 @@ input[type=text] {
 
 input[type=button] {
     border-radius: 8px;
-    background-color: var(--button-released-color);
+    background-color: var(--secondary-background-color);
     color: var(--text-color);
     border: none;
 }
