@@ -1,21 +1,29 @@
+:root {
+    --text-color: rgb(230, 230, 230);
+    --background-color: rgb(32, 32, 32);
+    --border-color: rgb(62, 62, 62);
+    --button-clicked-color: rgb(4, 4, 125);
+    --button-released-color: rgb(98, 98, 98);
+}
+
 body {
-    color: rgb(230, 230, 230);
-    background-color: #323232;
+    color: var(--text-color);
+    background-color: var(--background-color);
     font-family: Helvetica, Arial, sans-serif;
 }
 
 header, footer, main {
-    border: 3px solid #626262;
+    border: 3px solid var(--border-color);
     border-radius: 8px;
     margin-bottom: 8px;
 }
 
 #main p {
-    border-left: 42px solid #323232;
+    border-left: 42px solid var(--background-color)
 }
 
 #header, #footer, #main {
-    border: 4px solid #323232;
+    border: 4px solid var(--background-color);
     border-radius: 8px;
     padding: 4px;
 }
@@ -23,37 +31,38 @@ header, footer, main {
 table {
     text-align: left;
     border-collapse: collapse;
-    border-right: 16px solid #323232;
 }
 
 td, th {
-    background-color: rgb(4,4,125); 
     padding: 4px;
-    border-bottom: 4px solid #323232;
-    border-right: 4px solid #323232;
     vertical-align: top;
 }
 
-#checkboxcell {
-    background-color: #323232;
+tr {
+    background-color: var(--border-color);
+    border: 4px solid var(--background-color);
 }
 
+/* #checkboxcell {
+    background-color: var(--background-color);
+} */
+
 input[type=text] {
-    border-color: lightgray;
+    border-color: var(--border-color);
     border-radius: 8px;
-    color: #323232;
+    color: var(--background-color);
     border: none;
 }
 
 input[type=button] {
     border-radius: 8px;
-    background-color: rgb(98, 98, 98);
-    color: rgb(230, 230, 230);
+    background-color: var(--button-released-color);
+    color: var(--text-color);
     border: none;
 }
 
 #copybutton:active {
-    background-color: rgb(4, 4, 125);
+    background-color: var(--button-clicked-color);
 }
 
 input[type=checkbox] {
@@ -64,5 +73,5 @@ input[type=checkbox] {
 }
 
 a {
-    color: rgb(230, 230, 230)
+    color: var(--text-color)
 }

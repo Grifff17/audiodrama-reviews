@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", displayAudiodramas)
 
-buttonClickedColor = "rgb(4, 4, 125)"
-buttonReleasedColor = "rgb(98, 98, 98)"
+buttonClickedColor = getComputedStyle(document.documentElement,null).getPropertyValue('--button-clicked-color');
+buttonReleasedColor = getComputedStyle(document.documentElement,null).getPropertyValue('--button-released-color');
 
 //displays table of audiodramas
 function displayAudiodramas(event) {
