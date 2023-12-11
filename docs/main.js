@@ -13,7 +13,7 @@ function displayAudiodramas(event) {
         //creates buttons for filtering
         let buttons = ""
         for (const tag of data["tags"]) {
-            buttons = buttons + `<input type="button" style="background-color: ${buttonReleasedColor}" value="${tag}" onclick="togglefilter('${tag}')" id="tag-${tag}">`
+            buttons = buttons + `<input type="button" style="background-color: ${buttonReleasedColor}" value="${tag}" onclick="togglefilter('${tag}')" id="tag-${tag}">&nbsp;`
         }
         filterbuttons = document.createElement('p')
         filterbuttons.id = "buttons"
