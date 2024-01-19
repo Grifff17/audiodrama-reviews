@@ -718,7 +718,7 @@
             "id": 67,
             "name" : "Back Again, Back Again",
             "rating": "9",
-            "review": " is a portal fantasy story, akin to Narnia, about a girl from who wakes up in the world of Rhysea on her 17th birthday. However, unlike most portal fantasy stories, Back Again, Back Again starts at the end of the stories, when Ilyaas dies in battle after 5 years in Rhysea and wakes up back home, 17 years old again. The podcast is Ilyaas telling the story of what happened to her in Rhysea. The show also has a heavy focus on language, fantasy linguistics, and how language is used to control people.",
+            "review": " is a portal fantasy story, akin to Narnia, about a girl from who wakes up in the world of Rhysea on her 17th birthday. However, unlike most portal fantasy stories, Back Again, Back Again starts at the end of the stories, when Ilyaas dies in battle after 5 years in Rhysea and wakes up back home, 17 years old again. The podcast is Ilyaas telling the story of what happened to her in Rhysea. The show also has a heavy focus on fantasy linguistics and how language is used to control people.",
             "tags": [
                 "fantasy",
                 "queer",
@@ -747,6 +747,17 @@
                 "supernatural",
                 "queer",
                 "romance"
+            ]
+        },
+
+        {
+            "id": 70,
+            "name" : "Sword and Spinner",
+            "rating": "8",
+            "review": " is a spinoff of Back Again, Back Again, set a thousand years earlier following unrelated characters in the same world. It follows a warrior from a foreign land and a bard travelling around the kingdom of Rhysea, fighting monsters and helping people. Sword and Spinner explores what it means to be exiled from your own home.", 
+            "tags": [
+                "fantasy",
+                "queer"
             ]
         }
 
