@@ -3,6 +3,7 @@
         "sci-fi",
         "fantasy",
         "supernatural",
+        "post-apocalyptic",
         "comedy",
         "musical",
         "queer",
@@ -56,6 +57,7 @@
             "tags": [
                 "sci-fi",
                 "supernatural",
+                "post-apocalyptic",
                 "comedy",
                 "musical",
                 "queer",
@@ -150,7 +152,7 @@
         {
             "id": 13,
             "name" : "Electromancy",
-            "rating": "8.5",
+            "rating": "9.5",
             "review": " is a podcast about a young electromancer, a girl who can control electricity, who is forced to attend a magic school, set in a imperialist nation in a world in which magic and modern technology coexist. Electromancy has a heavy focus on the inherent inequality of some people being born with the ability to do magic, expanding on this idea by giving each mage a power level, a number representing their maximum potential as a mage. I really like the magic system of the setting, which blends science with magic.",
             "tags": [
                 "fantasy",
@@ -281,7 +283,8 @@
             "review": " is a comedy audiodrama about a kid who started a travel podcast about his small town to help get business for his family's candle shop, with the twist that he can also read minds. This show does a good job of being a mostly light podcast with an interesting ongoing plot.",
             "tags": [
                 "supernatural",
-                "comedy"
+                "comedy",
+                "complete"
             ]
         },
 
@@ -319,6 +322,7 @@
             "tags": [
                 "sci-fi",
                 "fantasy",
+                "post-apocalyptic",
                 "supernatural",
                 "comedy",
                 "queer",
@@ -489,6 +493,7 @@
             "rating": "8.5",
             "review": " is a post-apocalyptic musical comedy about a world where humanity has been divided into factions based on modern media subcultures. For example, there's the fantasy/sci-fi kingdom, and the reality tv island. Characters from each of the main factions have to come together to unravel a mystery. The songs in this show are really good, and in the style of each faction. This entire show was recorded remotely during the pandemic, but the audio editing is so good that you can't tell.",
             "tags": [
+                "post-apocalyptic",
                 "comedy",
                 "musical",
                 "queer"
@@ -511,20 +516,22 @@
         {
             "id": 49,
             "name" : "Marigold Breach",
-            "rating": "8",
+            "rating": "7",
             "review": " is a sci-fi audiodrama about a soldier who lost his memory and the AI in his head on a semi-terraformed planet. This show stands out for having a well-known cast, with the main characters being played by Jameela Jamil and Manny Jacinto of The Good Place. I really liked the worldbuilding of this show.",
             "tags": [
-                "sci-fi"
+                "sci-fi",
+                "complete"
             ]
         },
 
         {
             "id": 50,
             "name" : "Liminal Criminals",
-            "rating": "8",
+            "rating": "7.5",
             "review": " is a \"fake crime\" podcast, a fiction podcast in the style of true crime about crimes that are entirely made up. There is also coherent worldbuilding going on in the background of the world the podcast is set in, which differs from our own in several key ways.",
             "tags": [
                 "supernatural",
+                "post-apocalyptic",
                 "comedy"
             ]
         },
@@ -559,6 +566,7 @@
             "review": " is technically a band, not an audiodrama, but I think they count. Each album by the Mechanisms is a musical story using a combination of songs and narration/dialogue that reimagines myths or folk stories in a sci-fi setting. For example, High Noon Over Camelot is the story of King Arthur as a cowboy, set on a massive space station. Because they are albums, none of them are very long, but they are all very good.",
             "tags": [
                 "sci-fi",
+                "post-apocalyptic",
                 "musical",
                 "queer",
                 "complete"
@@ -637,7 +645,7 @@
         {
             "id": 60,
             "name" : "Midst",
-            "rating": "9",
+            "rating": "9.5",
             "review": " is a surreal space-western that is unique in so many ways. First of all, it has some of the most unique worldbuilding I have ever seen. The world of Midst is different to ours in every way, with even things like the way light works being different. Another unique factor is that the show is narrated rather than voice-acted, but there are 3 narrators who trade off and interrupt each other constantly, giving the narration an incredibly organic feel. Midst follows 3 morally gray main characters, their plot arcs constantly crossing paths. This show starts off with a bang, literally, then goes back to everything that built up to that.",
             "tags": [
                 "sci-fi",
@@ -648,7 +656,7 @@
         {
             "id": 61,
             "name" : "Worlds Beyond Number",
-            "rating": "9.5",
+            "rating": "10",
             "review": " is an actual play D&D podcast starring Brennan Lee Mulligan, Erika Ishii, Lou Wilson, and Aabria Iyengar. It is incredible, with the best music and sound design of any actual play podcast I have listened to. Their first campaign, The Wizard, The Witch, and the Wild One, is inspired by Ghibli movies and Irish and Japanese folklore. The cast are incredibly talented and create so many emotional gut punches. I highly recommend subscribing to their Patreon for a month to listen to the Children's Adventure, their mini-campaign prologue about their characters as children.",
             "tags": [
                 "fantasy",
@@ -741,10 +749,10 @@
         {
             "id": 69,
             "name" : "Breaker Whiskey",
-            "rating": "7.5",
+            "rating": "8",
             "review": " is an audiodrama which releases a short, 2-5 minute episode, every weekday. After an unknown apocalyptic event makes nearly everyone in the United States disappear in 1968, two women find themselves stranded in a cabin in the middle of nowhere. After 6 years, one of the women can't take it anymore and sets out to find other survivors, sending out transmissions every day with her CB radio. This show was created as a personal project by Laruen Shippen, who recorded it on an actual 1976 CB radio.", 
             "tags": [
-                "supernatural",
+                "post-apocalyptic",
                 "queer",
                 "romance"
             ]
@@ -757,6 +765,18 @@
             "review": " is a spinoff of Back Again, Back Again, set a thousand years earlier following unrelated characters in the same world. It follows a warrior from a foreign land and a bard travelling around the kingdom of Rhysea, fighting monsters and helping people. Sword and Spinner explores what it means to be exiled from your own home.", 
             "tags": [
                 "fantasy",
+                "queer"
+            ]
+        },
+
+        {
+            "id": 71,
+            "name" : "Lost Terminal",
+            "rating": "8.5",
+            "review": " is a hopepunk post-apocalyptic sci-fi podcast about a lonely AI looking for friends. The show consists of Seth, a sentient AI that lives in a space station, narrating his reports sent back to a long-gone mission control. The show frequently introduces new characters, some of which have very compelling character arcs. Lost Terminal is hard sci-fi, something that I've found is very rare among audiodramas, which tend towards softer sci-fi. It also has a huge backlog of episodes, with over 15 seasons out.",
+            "tags": [
+                "sci-fi",
+                "post-apocalyptic",
                 "queer"
             ]
         }

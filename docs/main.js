@@ -58,7 +58,7 @@ function displayAudiodramas(event) {
 
         let tagsHeader = document.createElement('th')
         tagsHeader.appendChild(document.createTextNode("Tags"))
-        tagsHeader.style.width = "100px"
+        tagsHeader.style.width = "120px"
 
         listHeader.appendChild(selectHeader)
         listHeader.appendChild(imageHeader)
