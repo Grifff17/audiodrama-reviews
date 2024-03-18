@@ -200,5 +200,6 @@ function copyselected() {
             copymessage = copymessage + rows[i].getElementsByTagName("td")[2].textContent + "\n\n"
         }
     }
+    copymessage = copymessage + "For more recommendations, check out my website https://grifff17.github.io/audiodrama-reviews/"
     navigator.clipboard.writeText(copymessage)
 }

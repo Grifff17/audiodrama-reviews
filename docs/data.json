@@ -779,6 +779,54 @@
                 "post-apocalyptic",
                 "queer"
             ]
+        },
+
+        {
+            "id": 72,
+            "name" : "Camlann",
+            "rating": "8",
+            "review": " is a post-apocalyptic audiodrama set in a world where myths have come to life, forcing people into the roles of characters with similar names from folklore. The show focuses on Arthurian legends, with two of the three main characters having names from Arthurian myth. This show has a very cool perspective on the concept of characters being aware that they are part of a story. Also, I was able to enjoy this show while knowing very little about actual Arthurian legend, though I'm sure it improves the story.",
+            "tags": [
+                "fantasy",
+                "supernatural",
+                "post-apocalyptic",
+                "queer"
+            ]
+        },
+
+        {
+            "id": 73,
+            "name" : "Sinkhole",
+            "rating": "7.5",
+            "review": " is an audiodrama about data restoration, how new technology affects culture, and the giant sinkhole that appeared in the middle of the city. The format of the show is voice recordings of a woman's forum posts on a data restoration forum, set in a future where neural interface technology has changed the world in the same way the internet did. This show is at times surreal, weird, and informative, and does a very good job capturing the vibes of a forum post.",
+            "tags": [
+                "sci-fi",
+                "supernatural"
+            ]
+        },
+
+        {
+            "id": 74,
+            "name" : "The Kingmaker Histories",
+            "rating": "8",
+            "review": " is a faux-history comedy audiodrama following the history of the kingmaker diamond, which at the time of the show is embedded in the head of Colette Geise, one of the protagonists. The show is set in 1911 in a made-up small European nation which has a history of portals to another dimension. It also has a very cool magic system, including the fey-like Good Neighbors, beings who originated in another dimension but now live on Earth.",
+            "tags": [
+                "fantasy",
+                "comedy",
+                "queer"
+            ]
+        },
+
+        {
+            "id": 75,
+            "name" : "Skyjacks: Courier's Call",
+            "rating": "8.5",
+            "review": " is a kid-friendly actual play podcast following three kids who become Couriers, a group that delivers mail using airships and giant birds. The characters are the strongest part of this show, with very likeable player characters. They use a modified version of the Fate system, which I prefer for audio actual plays over something crunchier. Courier's Call is actually a spinoff of another actual play, which I haven't listened to, but I don't feel like I have missed anything by not listening to it.",
+            "tags": [
+                "fantasy",
+                "actual play",
+                "kid-friendly"
+            ]
         }
 
     ]
