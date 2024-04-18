@@ -4,6 +4,7 @@
         "fantasy",
         "supernatural",
         "post-apocalyptic",
+        "mystery",
         "comedy",
         "musical",
         "queer",
@@ -17,9 +18,10 @@
             "id": 1,
             "name": "The Strange Case of Starship Iris",
             "rating": "10",
-            "review": " is a sci-fi audiodrama about the crew of a smuggler ship travelling around the universe on the run from the evil human government, trying to solve the mystery of what happened to Starship Iris. It's similar to the TV show Firefly, and one of my all-time favorite audiodramas. It has a very good cast of (almost all queer) characters, which is one of its main strengths. It's also very funny at times, though the plot is serious.",
+            "review": "is a sci-fi audiodrama about the crew of a smuggler ship travelling around the universe on the run from the evil human government, trying to solve the mystery of what happened to Starship Iris. It's similar to the TV show Firefly, and one of my all-time favorite audiodramas. It has a very good cast of (almost all queer) characters, which is one of its main strengths. It's also very funny at times, though the plot is serious.",
             "tags": [
                 "sci-fi",
+                "mystery",
                 "queer"
             ]
         },
@@ -28,9 +30,10 @@
             "id": 2,
             "name": "Wolf 359",
             "rating": "9",
-            "review": " is a sci-fi audiodrama centered on the crew of a space station all alone in deep space, searching for signals from extra-terrestrial life. It starts out like more of a sci-fi sitcom, but around episode 11, the plot becomes very good, so don't give up after the first few episodes. Wolf 359 is a well-liked, classic audiodrama, and I would recommend it to anyone new to the medium.",
+            "review": "is a sci-fi audiodrama centered on the crew of a space station all alone in deep space, searching for signals from extra-terrestrial life. It starts out like more of a sci-fi sitcom, but around episode 11, the plot becomes very good, so don't give up after the first few episodes. Wolf 359 is a well-liked, classic audiodrama, and I would recommend it to anyone new to the medium.",
             "tags": [
                 "sci-fi",
+                "mystery",
                 "comedy",
                 "complete"
             ]
@@ -40,7 +43,7 @@
             "id": 3,
             "name": "Second Star to the Left",
             "rating": "10",
-            "review": " is a story about Gwen, the first person to start colonizing a planet. She will be alone for 5 years before any other colonists arrive. However, it turns out that she is not totally alone, due to Bell, her scout-minder, whose job it is to talk to her every day from a nearby space station so she doesn't go insane. Second Star to the Left is an amazing story about two people and the relationship they form with each other, and one of my all-time favorite audiodramas.",
+            "review": "is a story about Gwen, the first person to start colonizing a planet. She will be alone for 5 years before any other colonists arrive. However, it turns out that she is not totally alone, due to Bell, her scout-minder, whose job it is to talk to her every day from a nearby space station so she doesn't go insane. Second Star to the Left is an amazing story about two people and the relationship they form with each other, and one of my all-time favorite audiodramas.",
             "tags": [
                 "sci-fi",
                 "queer",
@@ -53,11 +56,12 @@
             "id": 4,
             "name": "Fall of the House of Sunshine",
             "rating": "8.5",
-            "review": " is an absurdist musical comedy about a cult of dentists, living puppets, and the murder of a kids tv show host through a rip in space time. That’s the first season, at least. If you like musicals and completely absurd plots along with some surprisingly good worldbuilding and themes, this is the audiodrama for you. Some of the songs are really good, and the show keeps up its high quality through 3 seasons.",
+            "review": "is an absurdist musical comedy about a cult of dentists, living puppets, and the murder of a kids tv show host through a rip in space time. That’s the first season, at least. If you like musicals and completely absurd plots along with some surprisingly good worldbuilding and themes, this is the audiodrama for you. Some of the songs are really good, and the show keeps up its high quality through 3 seasons.",
             "tags": [
                 "sci-fi",
                 "supernatural",
                 "post-apocalyptic",
+                "mystery",
                 "comedy",
                 "musical",
                 "queer",
@@ -69,7 +73,7 @@
             "id": 6,
             "name": "Alba Salix, Royal Physician",
             "rating": "7",
-            "review": " is a comedy audiodrama about the doctor's office in a fairytale kingdom. Also on the same feed is their spin-off The Axe & Crown, which is about a tavern in the same city. Both shows have a memorable cast of characters.",
+            "review": "is a comedy audiodrama about the doctor's office in a fairytale kingdom. Also on the same feed is their spin-off The Axe & Crown, which is about a tavern in the same city. Both shows have a memorable cast of characters.",
             "tags": [
                 "fantasy",
                 "comedy"
@@ -80,7 +84,7 @@
             "id": 7,
             "name": "The Ballad of Anne & Mary",
             "rating": "8",
-            "review": " is a musical audiodrama about the lives of the pirates Anne Bonny and Mary Read, and a journalist who wants to tell their story. Anne and Mary have been captured by the British and and set to be hanged, and Nathaniel is allowed to see them before they are hanged, and asks them for the truth about their lives.  This is a great musical with some really fun pirate songs. It tells a well written romance story too.",
+            "review": "is a musical audiodrama about the lives of the pirates Anne Bonny and Mary Read, and a journalist who wants to tell their story. Anne and Mary have been captured by the British and and set to be hanged, and Nathaniel is allowed to see them before they are hanged, and asks them for the truth about their lives.  This is a great musical with some really fun pirate songs. It tells a well written romance story too.",
             "tags": [
                 "musical",
                 "queer",
@@ -93,7 +97,7 @@
             "id": 8,
             "name": "Brimstone Valley Mall",
             "rating": "8",
-            "review": " is a comedy about a group of demons from hell who hang out in a shopping mall in 1999, trying to get gigs for their band. They are set to play at hell's y2k concert in 2 weeks when their lead vocalist goes missing. The setting is similar to the book/tv show Good Omens, but with a focus on demons and late 90s goth culture.",
+            "review": "is a comedy about a group of demons from hell who hang out in a shopping mall in 1999, trying to get gigs for their band. They are set to play at hell's y2k concert in 2 weeks when their lead vocalist goes missing. The setting is similar to the book/tv show Good Omens, but with a focus on demons and late 90s goth culture.",
             "tags": [
                 "supernatural",
                 "comedy",
@@ -105,7 +109,7 @@
             "id": 9,
             "name": "Dear Liisphyra",
             "rating": "7.5",
-            "review": " is an advice radio show set in a classic d&d fantasy setting. Liisphyra is a young elf who hosts an advice hour from the Towering Forest radio station, and people with problems write or call in to the show with their fantastical problems. This is a great light audiodrama which is very relaxing, with not much in the way of ongoing plot.",
+            "review": "is an advice radio show set in a classic d&d fantasy setting. Liisphyra is a young elf who hosts an advice hour from the Towering Forest radio station, and people with problems write or call in to the show with their fantastical problems. This is a great light audiodrama which is very relaxing, with not much in the way of ongoing plot.",
             "tags": [
                 "fantasy",
                 "comedy",
@@ -117,7 +121,7 @@
             "id": 10,
             "name" : "Mission to Zyxx",
             "rating": "7",
-            "review": " is an improv comedy podcast about the incompetent crew of a diplomacy spaceship flying around the galaxy having adventures. Each episode is roughly planned out before recording, but most of it is improvised. This show does take a few episodes for it to hit its stride, so give it some time.",
+            "review": "is an improv comedy podcast about the incompetent crew of a diplomacy spaceship flying around the galaxy having adventures. Each episode is roughly planned out before recording, but most of it is improvised. This show does take a few episodes for it to hit its stride, so give it some time.",
             "tags": [
                 "sci-fi",
                 "comedy",
@@ -130,7 +134,7 @@
             "id": 11,
             "name" : "The Once and Future Nerd",
             "rating": "9",
-            "review": " is a very well done fantasy podcast about 3 modern teenagers who get transported to a fantasy world. While the characters are initially stereotypes (nerd, jock, cheerleader) they have massive character growth and characterization. All the characters, those three and the others, are very well written, particularly the villains. The Once and Future Nerd does an amazing job of having both comedy and a serious, real-worldrelevant, plot, which it balances very well. The podcast is split into chapter and books, with each chapter being 4 or 5 episodes, which gives it the feel of a classic fantasy novel. I'd recommend getting at least a little ways into the second chapter, as that is when the story picks up.",
+            "review": "is a very well done fantasy podcast about 3 modern teenagers who get transported to a fantasy world. While the characters are initially stereotypes (nerd, jock, cheerleader) they have massive character growth and characterization. All the characters, those three and the others, are very well written, particularly the villains. The Once and Future Nerd does an amazing job of having both comedy and a serious, real-worldrelevant, plot, which it balances very well. The podcast is split into chapter and books, with each chapter being 4 or 5 episodes, which gives it the feel of a classic fantasy novel. I'd recommend getting at least a little ways into the second chapter, as that is when the story picks up.",
             "tags": [
                 "fantasy",
                 "queer"
@@ -141,7 +145,7 @@
             "id": 12,
             "name" : "The Stench of Adventure",
             "rating": "8",
-            "review": " is a sci-fi comedy about a woman who discovers that her entire world was a simulation and joins the crew of an intergalactic garbage collection spaceship. The Stench of Adventure is a fun comedy podcast in the vein of Hitchhikers Guide to the Galaxy, but with more of a focus on characters and plot.",
+            "review": "is a sci-fi comedy about a woman who discovers that her entire world was a simulation and joins the crew of an intergalactic garbage collection spaceship. The Stench of Adventure is a fun comedy podcast in the vein of Hitchhikers Guide to the Galaxy, but with more of a focus on characters and plot.",
             "tags": [
                 "sci-fi",
                 "comedy",
@@ -153,7 +157,7 @@
             "id": 13,
             "name" : "Electromancy",
             "rating": "9.5",
-            "review": " is a podcast about a young electromancer, a girl who can control electricity, who is forced to attend a magic school, set in a imperialist nation in a world in which magic and modern technology coexist. Electromancy has a heavy focus on the inherent inequality of some people being born with the ability to do magic, expanding on this idea by giving each mage a power level, a number representing their maximum potential as a mage. I really like the magic system of the setting, which blends science with magic.",
+            "review": "is a podcast about a young electromancer, a girl who can control electricity, who is forced to attend a magic school, set in a imperialist nation in a world in which magic and modern technology coexist. Electromancy has a heavy focus on the inherent inequality of some people being born with the ability to do magic, expanding on this idea by giving each mage a power level, a number representing their maximum potential as a mage. I really like the magic system of the setting, which blends science with magic.",
             "tags": [
                 "fantasy",
                 "queer"
@@ -164,7 +168,7 @@
             "id": 14,
             "name" : "Elixir",
             "rating": "6.5",
-            "review": " is a prohibition-inspired fantasy podcast about an upper class woman forced to descend into the magical speakeasies of the underbelly of the city to find her missing sister. My opinions on this podcast are mixed. On the one hand, the setting is really interesting, and I liked the characters, but on the other hand its mostly narrated, and is closer to an audiobook than an audiodrama. A lot of Realm (the studio that made this show) podcasts fall into this, so I hesitate to recommend them to people who are looking for full audiodramas.",
+            "review": "is a prohibition-inspired fantasy podcast about an upper class woman forced to descend into the magical speakeasies of the underbelly of the city to find her missing sister. My opinions on this podcast are mixed. On the one hand, the setting is really interesting, and I liked the characters, but on the other hand its mostly narrated, and is closer to an audiobook than an audiodrama. A lot of Realm (the studio that made this show) podcasts fall into this, so I hesitate to recommend them to people who are looking for full audiodramas.",
             "tags": [
                 "fantasy",
                 "queer",
@@ -177,7 +181,7 @@
             "id": 16,
             "name" : "The Flame",
             "rating": "6.5",
-            "review": " is a musical rom-com about the owner of a gay bar falling in love with the woman trying to evict her. It's a pretty standard rom-com, with all the classic rom-com tropes, but made queer. ",
+            "review": "is a musical rom-com about the owner of a gay bar falling in love with the woman trying to evict her. It's a pretty standard rom-com, with all the classic rom-com tropes, but made queer. ",
             "tags": [
                 "comedy",
                 "musical",
@@ -191,7 +195,7 @@
             "id": 17,
             "name" : "Forgive Me!",
             "rating": "7.5",
-            "review": " is a comedy about what goes on in the confession booth of a catholic priest in a small town in rural America. The main character, a young, progressive priest, is likeable and the antics of the town are very entertaining.",
+            "review": "is a comedy about what goes on in the confession booth of a catholic priest in a small town in rural America. The main character, a young, progressive priest, is likeable and the antics of the town are very entertaining.",
             "tags": [
                 "comedy"
             ]
@@ -201,9 +205,10 @@
             "id": 19,
             "name" : "Harbor",
             "rating": "8",
-            "review": " is an audiodrama about the Department of Cryptid Affairs in a rural town. This podcast is less focused on cryptid adventures and more on character and emotion drama, with some of the characters being cryptids. I love stories focused on characters and the relationships between them, and this podcast hits that spot. It has very good characters, and the villain in particular is very well written in a way that makes you completely hate him.",
+            "review": "is an audiodrama about the Department of Cryptid Affairs in a rural town. This podcast is less focused on cryptid adventures and more on character and emotion drama, with some of the characters being cryptids. I love stories focused on characters and the relationships between them, and this podcast hits that spot. It has very good characters, and the villain in particular is very well written in a way that makes you completely hate him.",
             "tags": [
                 "supernatural",
+                "mystery",
                 "queer",
                 "romance"
             ]
@@ -213,7 +218,7 @@
             "id": 20,
             "name" : "Hit the Bricks",
             "rating": "8",
-            "review": " is a musical podcast set in the world of The Wizard of Oz 100 years later, when the grandchildren of Dorothy travel to Oz, but something is wrong in the world. This is a child-friendly adventure audiodrama, but its still good to listen to as an adult. It has less of a focus on being musical than other musical podcasts, there's one or two songs per episode rather than several.",
+            "review": "is a musical podcast set in the world of The Wizard of Oz 100 years later, when the grandchildren of Dorothy travel to Oz, but something is wrong in the world. This is a child-friendly adventure audiodrama, but its still good to listen to as an adult. It has less of a focus on being musical than other musical podcasts, there's one or two songs per episode rather than several.",
             "tags": [
                 "fantasy",
                 "musical",
@@ -225,7 +230,7 @@
             "id": 22,
             "name" : "In Strange Woods",
             "rating": "7.5",
-            "review": " is a musical audiodrama about a girl in a town in Minnesota, who decides to learn to survive when her older brother freezes to death in the snow. The podcast is framed as a documentary, with the host who interviews people being one of the characters in the show. This podcast is different in tone than most of the ones I've listened to, but it's very good.",
+            "review": "is a musical audiodrama about a girl in a town in Minnesota, who decides to learn to survive when her older brother freezes to death in the snow. The podcast is framed as a documentary, with the host who interviews people being one of the characters in the show. This podcast is different in tone than most of the ones I've listened to, but it's very good.",
             "tags": [
                 "musical",
                 "complete"
@@ -236,7 +241,7 @@
             "id": 23,
             "name" : "Less is Mourge",
             "rating": "8",
-            "review": " is a comedy about a ghost and the ghoul who ate her corpse starting a podcast, set in an alternate version of Florida where the supernatural is commonplace. It frequently references modern internet culture and has some really good moments. Unfortunately, this show is on an indefinite hiatus, and is probably never going to be finished.",
+            "review": "is a comedy about a ghost and the ghoul who ate her corpse starting a podcast, set in an alternate version of Florida where the supernatural is commonplace. It frequently references modern internet culture and has some really good moments. Unfortunately, this show is on an indefinite hiatus, and is probably never going to be finished.",
             "tags": [
                 "supernatural",
                 "comedy",
@@ -248,7 +253,7 @@
             "id": 25,
             "name" : "Little Did I Know",
             "rating": "6.5",
-            "review": " is a musical about a theater student with big dreams fresh out of college who takes on a job running a small-town musical theater as a summer job.",
+            "review": "is a musical about a theater student with big dreams fresh out of college who takes on a job running a small-town musical theater as a summer job.",
             "tags": [
                 "musical",
                 "complete"
@@ -259,7 +264,7 @@
             "id": 27,
             "name" : "Midnight Burger",
             "rating": "10",
-            "review": " is a sci-fi audiodrama about a time-travelling, dimension-spanning diner than appears somewhere in the multiverse every day, complete with a sentient old-timey radio. The characters include a nihilist scientist, a chef with a past as a genius engineer, and a couple of old-timey Christian radio show hosts. This is one of my all-time favorite audiodramas. It is well-written, funny, and has some really good sci-fi. The characters are all very good, and the ongoing plot is great.",
+            "review": "is a sci-fi audiodrama about a time-travelling, dimension-spanning diner than appears somewhere in the multiverse every day, complete with a sentient old-timey radio. The characters include a nihilist scientist, a chef with a past as a genius engineer, and a couple of old-timey Christian radio show hosts. This is one of my all-time favorite audiodramas. It is well-written, funny, and has some really good sci-fi. The characters are all very good, and the ongoing plot is great.",
             "tags": [
                 "sci-fi"
             ]
@@ -269,7 +274,7 @@
             "id": 28,
             "name" : "Mission Rejected",
             "rating": "10",
-            "review": " is a comedy spy podcast about the backup spies who get the missions turned down by the superspy. This is my all-time favorite comedy podcast, it's style of humor consistently lands with me. It frequently has me laughing out loud. Each episode the main characters get a ridiculous spy mission they have to carry out, with the main plot progressing in the pre-intro and post-credit scenes.",
+            "review": "is a comedy spy podcast about the backup spies who get the missions turned down by the superspy. This is my all-time favorite comedy podcast, it's style of humor consistently lands with me. It frequently has me laughing out loud. Each episode the main characters get a ridiculous spy mission they have to carry out, with the main plot progressing in the pre-intro and post-credit scenes.",
             "tags": [
                 "comedy",
                 "queer"
@@ -280,9 +285,10 @@
             "id": 29,
             "name" : "My Town",
             "rating": "7.5",
-            "review": " is a comedy audiodrama about a kid who started a travel podcast about his small town to help get business for his family's candle shop, with the twist that he can also read minds. This show does a good job of being a mostly light podcast with an interesting ongoing plot.",
+            "review": "is a comedy audiodrama about a kid who started a travel podcast about his small town to help get business for his family's candle shop, with the twist that he can also read minds. This show does a good job of being a mostly light podcast with an interesting ongoing plot.",
             "tags": [
                 "supernatural",
+                "mystery",
                 "comedy",
                 "complete"
             ]
@@ -292,7 +298,7 @@
             "id": 30,
             "name" : "A New You Tomorow",
             "rating": "6.5",
-            "review": " is a surreal musical about a guy who goes to stay at his aunt's rock shop in Arizona. Then aliens show up. I listened to this podcast while half asleep on a long car ride, and it was a total acid trip. I think it was pretty good, but I was kinda unclear what was actually happening most of the time, partially because of the songs making it hard to tell what was happening and partially because I was nodding off.",
+            "review": "is a surreal musical about a guy who goes to stay at his aunt's rock shop in Arizona. Then aliens show up. I listened to this podcast while half asleep on a long car ride, and it was a total acid trip. I think it was pretty good, but I was kinda unclear what was actually happening most of the time, partially because of the songs making it hard to tell what was happening and partially because I was nodding off.",
             "tags": [
                 "sci-fi",
                 "musical",
@@ -305,9 +311,10 @@
             "id": 31,
             "name" : "The Pasithea Powder",
             "rating": "9",
-            "review": " is a sci-fi podcast about the aftermath of a war and how it affected two women, along with the pasithea powder, the mind control drug that ended the war. The first season is told as an epistolary, through the voicemails between the main characters, which they somewhat move away from in the second season. This podcast has a heavy focus on emotional drama and the relationship between the two main characters, a war hero stuck doing reparations and a scientist under house arrest for treason.",
+            "review": "is a sci-fi podcast about the aftermath of a war and how it affected two women, along with the pasithea powder, the mind control drug that ended the war. The first season is told as an epistolary, through the voicemails between the main characters, which they somewhat move away from in the second season. This podcast has a heavy focus on emotional drama and the relationship between the two main characters, a war hero stuck doing reparations and a scientist under house arrest for treason.",
             "tags": [
                 "sci-fi",
+                "mystery",
                 "queer",
                 "romance",
                 "complete"
@@ -318,9 +325,10 @@
             "id": 32,
             "name" : "The Penny Peepshow",
             "rating": "8",
-            "review": " isn't one show, it’s a group that has put out a bunch of short comedy audiodramas with the same writer and voice actors on the same feed, many of them being a parody of some other piece of media. Most of the shows that The Penny Peepshow made are pretty good, though there were one or two I didn't like. I particularly liked Edge of Infinity, their Star Trek parody where all the incompetent crew members were put on one ship, and ReadersXS, their parody of the pokemon anime with characters from literature instead of pokemon, and gory sound effects.",
+            "review": "isn't one show, it’s a group that has put out a bunch of short comedy audiodramas with the same writer and voice actors on the same feed, many of them being a parody of some other piece of media. Most of the shows that The Penny Peepshow made are pretty good, though there were one or two I didn't like. I particularly liked Edge of Infinity, their Star Trek parody where all the incompetent crew members were put on one ship, and ReadersXS, their parody of the pokemon anime with characters from literature instead of pokemon, and gory sound effects.",
             "tags": [
                 "sci-fi",
+                "mystery",
                 "fantasy",
                 "post-apocalyptic",
                 "supernatural",
@@ -335,7 +343,7 @@
             "id": 33,
             "name" : "Roommate From Hell",
             "rating": "8",
-            "review": " is a sitcom about a woman whose new roommate ends up being a demon. This is one of the funniest audio sitcoms I've listened to, it frequently had me laughing out loud. I only wish that the episodes were longer.",
+            "review": "is a sitcom about a woman whose new roommate ends up being a demon. This is one of the funniest audio sitcoms I've listened to, it frequently had me laughing out loud. I only wish that the episodes were longer.",
             "tags": [
                 "supernatural",
                 "comedy"
@@ -346,7 +354,7 @@
             "id": 34,
             "name" : "Rude Tales of Magic",
             "rating": "9",
-            "review": " is an actual play d&d podcast, so not technically an audiodrama, but it's really good and mostly focused on narrative and comedy rather than any die rolling. An episode is 98% roleplay, with usually only a couple dice rolled per episode, which is good because I find d&d combat boring to listen to. It's super entertaining and the plot doesn't take itself seriously, but it has really good relationships between the player characters. The DM is also very talented in his ability to create funny narration on the fly.",
+            "review": "is an actual play d&d podcast, so not technically an audiodrama, but it's really good and mostly focused on narrative and comedy rather than any die rolling. An episode is 98% roleplay, with usually only a couple dice rolled per episode, which is good because I find d&d combat boring to listen to. It's super entertaining and the plot doesn't take itself seriously, but it has really good relationships between the player characters. The DM is also very talented in his ability to create funny narration on the fly.",
             "tags": [
                 "fantasy",
                 "comedy",
@@ -360,7 +368,7 @@
             "id": 35,
             "name" : "Saffron and Peri",
             "rating": "7.5",
-            "review": " is a comedy audiodrama about the business of being a fairy godmother in a modern setting. The main characters are a fairy godmother and a magic IT technician, in a world where people can go to college to be a fairy godmother and people have cell phones. The genre shift they do in the third season is super well done.",
+            "review": "is a comedy audiodrama about the business of being a fairy godmother in a modern setting. The main characters are a fairy godmother and a magic IT technician, in a world where people can go to college to be a fairy godmother and people have cell phones. The genre shift they do in the third season is super well done.",
             "tags": [
                 "fantasy",
                 "comedy"
@@ -371,7 +379,7 @@
             "id": 36,
             "name" : "SCP: Find Us Alive",
             "rating": "9.5",
-            "review": " is an audiodrama about an SCP facility that is shifted into a pocket dimension by the anomaly it is studying, and the staff have to survive, dealing with each other and the anomaly that shifted them doing strange things. This show is best if you are familiar with the SCP universe, but only a passing understanding is necessary to enjoy it. The short description of the universe is that the SCP foundation is a secret organization that contains anomalous objects and people and keeps them secure and secret. The 5 main characters are all great, particularly Agent Love and Officer Raddagher.",
+            "review": "is an audiodrama about an SCP facility that is shifted into a pocket dimension by the anomaly it is studying, and the staff have to survive, dealing with each other and the anomaly that shifted them doing strange things. This show is best if you are familiar with the SCP universe, but only a passing understanding is necessary to enjoy it. The short description of the universe is that the SCP foundation is a secret organization that contains anomalous objects and people and keeps them secure and secret. The 5 main characters are all great, particularly Agent Love and Officer Raddagher.",
             "tags": [
                 "supernatural",
                 "queer",
@@ -383,7 +391,7 @@
             "id": 37,
             "name" : "Second Fiddles",
             "rating": "7.5",
-            "review": " is a comedy about a support group for superhero's sidekicks. Most of them have superpowers that aren't particularly useful. The main cast of characters are fun and enjoyable. This show has a somewhat odd sense of humor(why do the censor all the swearing in a podcast with so many dirty jokes?) which I enjoyed, particularly all the punny superhero/villain names.",
+            "review": "is a comedy about a support group for superhero's sidekicks. Most of them have superpowers that aren't particularly useful. The main cast of characters are fun and enjoyable. This show has a somewhat odd sense of humor(why do the censor all the swearing in a podcast with so many dirty jokes?) which I enjoyed, particularly all the punny superhero/villain names.",
             "tags": [
                 "supernatural",
                 "comedy",
@@ -396,7 +404,7 @@
             "id": 38,
             "name" : "Solutions to Problems",
             "rating": "8.5",
-            "review": " is an advice radio show set in a fairly standard sci-fi universe. The show is a comedy, and people send in their sci-fi relationship problems like \"my boyfriend was cloned in a transporter accident and now he's jealous\" and the hosts do their best to give people advice. The show has an ongoing plot involving the hosts, who are both great characters. Janet is an incredibly vain human woman who is full of cosmetic nanobots and owns an illegal time machine. Loaf is an alien with very strange biology from a race of people who rarely leave their home world.",
+            "review": "is an advice radio show set in a fairly standard sci-fi universe. The show is a comedy, and people send in their sci-fi relationship problems like \"my boyfriend was cloned in a transporter accident and now he's jealous\" and the hosts do their best to give people advice. The show has an ongoing plot involving the hosts, who are both great characters. Janet is an incredibly vain human woman who is full of cosmetic nanobots and owns an illegal time machine. Loaf is an alien with very strange biology from a race of people who rarely leave their home world.",
             "tags": [
                 "sci-fi",
                 "comedy",
@@ -408,7 +416,7 @@
             "id": 39,
             "name" : "Spout Lore",
             "rating": "9",
-            "review": " is an actual play podcast, using an RPG system called Dungeon World that has a heavy focus on story. It's super funny, and has a heavy emphasis on story and characters rather than combat. The system they use is perfect for the tone of the game and they use collaborative storytelling extensively. Someone might roll a partial success on something, and another player suggests something that they think might be cool as a result of the roll and they just go with it.",
+            "review": "is an actual play podcast, using an RPG system called Dungeon World that has a heavy focus on story. It's super funny, and has a heavy emphasis on story and characters rather than combat. The system they use is perfect for the tone of the game and they use collaborative storytelling extensively. Someone might roll a partial success on something, and another player suggests something that they think might be cool as a result of the roll and they just go with it.",
             "tags": [
                 "fantasy",
                 "comedy",
@@ -420,7 +428,7 @@
             "id": 40,
             "name" : "StarTripper!!",
             "rating": "8",
-            "review": " is a sci-fi audiodrama about a clerk who quits his job, sells all his limited edition movie merch, buys a spaceship, and sets off to start a travel podcast exploring the galaxy. The main characters start off as just him and his ship's sentient AI, but later on in the show more characters join the main cast. I'm not sure why, but this is one of the most chill podcasts that I have listened to, and I love listening to it as a way to relax.",
+            "review": "is a sci-fi audiodrama about a clerk who quits his job, sells all his limited edition movie merch, buys a spaceship, and sets off to start a travel podcast exploring the galaxy. The main characters start off as just him and his ship's sentient AI, but later on in the show more characters join the main cast. I'm not sure why, but this is one of the most chill podcasts that I have listened to, and I love listening to it as a way to relax.",
             "tags": [
                 "sci-fi",
                 "queer"
@@ -431,7 +439,7 @@
             "id": 41,
             "name" : "True Tales of the Illuminati",
             "rating": "7.5",
-            "review": " is a short comedy audiodrama about the bottom level employees of the Illuminati, working in ancient Egypt to make sure conspiracies happen according to plans. This audiodrama is very funny, the jokes consistently landed for me. I just wish the seasons were more than a few episodes long.",
+            "review": "is a short comedy audiodrama about the bottom level employees of the Illuminati, working in ancient Egypt to make sure conspiracies happen according to plans. This audiodrama is very funny, the jokes consistently landed for me. I just wish the seasons were more than a few episodes long.",
             "tags": [
                 "supernatural",
                 "comedy"
@@ -442,7 +450,7 @@
             "id": 42,
             "name" : "The Two Princes",
             "rating": "7.5",
-            "review": " is a classic fairytale with a twist. The princes of two kingdoms enter a forest to try to resolve a curse destroying their kingdoms, and meet and fall in love. The later seasons are good too, and the third season is a musical. The Two Princes is an entertaining and funny audiodrama suitable for all ages.",
+            "review": "is a classic fairytale with a twist. The princes of two kingdoms enter a forest to try to resolve a curse destroying their kingdoms, and meet and fall in love. The later seasons are good too, and the third season is a musical. The Two Princes is an entertaining and funny audiodrama suitable for all ages.",
             "tags": [
                 "fantasy",
                 "comedy",
@@ -458,8 +466,9 @@
             "id": 43,
             "name" : "Victoriocity",
             "rating": "7.5",
-            "review": " is a steampunk noir comedy set in the town of Even Greater London, where London has expanded to cover most of England. This show has heavy Hitchhiker's Guide to the Galaxy vibes in terms of the tone of the narrator, it frequently goes off on little worldbuilding tangents that become relevant later.",
+            "review": "is a steampunk noir comedy set in the town of Even Greater London, where London has expanded to cover most of England. This show has heavy Hitchhiker's Guide to the Galaxy vibes in terms of the tone of the narrator, it frequently goes off on little worldbuilding tangents that become relevant later.",
             "tags": [
+                "mystery",
                 "comedy"
             ]
         },
@@ -468,7 +477,7 @@
             "id": 44,
             "name" : "We Fix Space Junk",
             "rating": "7",
-            "review": " is a sci-fi comedy about two low level workers of an evil megacorporation that sends them around the galaxy to fix various things. Their ship doesn't have a hyperdrive, so they have to go into cryo stasis for months between each of their jobs. To be completely honest, I liked their mini episodes they released between seasons about a one-off side character more than the main show.",
+            "review": "is a sci-fi comedy about two low level workers of an evil megacorporation that sends them around the galaxy to fix various things. Their ship doesn't have a hyperdrive, so they have to go into cryo stasis for months between each of their jobs. To be completely honest, I liked their mini episodes they released between seasons about a one-off side character more than the main show.",
             "tags": [
                 "sci-fi",
                 "comedy"
@@ -479,7 +488,7 @@
             "id": 46,
             "name" : "Where the Stars Fell",
             "rating": "9",
-            "review": " is a podcast about a scientist who travels to a small town in Oregon to look for evidence of cryptids. When she arrive she meets her roommate, a reclusive author, and has to learn to get along with her. The dynamic between these two characters is great. This audiodrama has a massive twist at the beginning of the second season that recontextualizes the entire first season.",
+            "review": "is a podcast about a scientist who travels to a small town in Oregon to look for evidence of cryptids. When she arrive she meets her roommate, a reclusive author, and has to learn to get along with her. The dynamic between these two characters is great. This audiodrama has a massive twist at the beginning of the second season that recontextualizes the entire first season.",
             "tags": [
                 "supernatural",
                 "queer",
@@ -491,7 +500,7 @@
             "id": 47,
             "name" : "The World to Come",
             "rating": "8.5",
-            "review": " is a post-apocalyptic musical comedy about a world where humanity has been divided into factions based on modern media subcultures. For example, there's the fantasy/sci-fi kingdom, and the reality tv island. Characters from each of the main factions have to come together to unravel a mystery. The songs in this show are really good, and in the style of each faction. This entire show was recorded remotely during the pandemic, but the audio editing is so good that you can't tell.",
+            "review": "is a post-apocalyptic musical comedy about a world where humanity has been divided into factions based on modern media subcultures. For example, there's the fantasy/sci-fi kingdom, and the reality tv island. Characters from each of the main factions have to come together to unravel a mystery. The songs in this show are really good, and in the style of each faction. This entire show was recorded remotely during the pandemic, but the audio editing is so good that you can't tell.",
             "tags": [
                 "post-apocalyptic",
                 "comedy",
@@ -504,7 +513,7 @@
             "id": 48,
             "name" : "The Bright Sessions",
             "rating": "9",
-            "review": " is an audiodrama that starts out as therapy for people with supernatural abilities. However, after the first season there is a very good ongoing plot that moves away from the original premise of the show. As you would expect for a show about therapy, it focuses heavily on the characters feelings and emotions after major plot events. It ends after 5 seasons, but there are two spin-off shows about the same characters on the same feed. The later seasons and the spin-offs are very good.",
+            "review": "is an audiodrama that starts out as therapy for people with supernatural abilities. However, after the first season there is a very good ongoing plot that moves away from the original premise of the show. As you would expect for a show about therapy, it focuses heavily on the characters feelings and emotions after major plot events. It ends after 5 seasons, but there are two spin-off shows about the same characters on the same feed. The later seasons and the spin-offs are very good.",
             "tags": [
                 "supernatural",
                 "queer",
@@ -517,7 +526,7 @@
             "id": 49,
             "name" : "Marigold Breach",
             "rating": "7",
-            "review": " is a sci-fi audiodrama about a soldier who lost his memory and the AI in his head on a semi-terraformed planet. This show stands out for having a well-known cast, with the main characters being played by Jameela Jamil and Manny Jacinto of The Good Place. I really liked the worldbuilding of this show.",
+            "review": "is a sci-fi audiodrama about a soldier who lost his memory and the AI in his head on a semi-terraformed planet. This show stands out for having a well-known cast, with the main characters being played by Jameela Jamil and Manny Jacinto of The Good Place. I really liked the worldbuilding of this show.",
             "tags": [
                 "sci-fi",
                 "complete"
@@ -528,10 +537,9 @@
             "id": 50,
             "name" : "Liminal Criminals",
             "rating": "7.5",
-            "review": " is a \"fake crime\" podcast, a fiction podcast in the style of true crime about crimes that are entirely made up. There is also coherent worldbuilding going on in the background of the world the podcast is set in, which differs from our own in several key ways.",
+            "review": "is a \"fake crime\" podcast, a fiction podcast in the style of true crime about crimes that are entirely made up. There is also coherent worldbuilding going on in the background of the world the podcast is set in, which differs from our own in several key ways.",
             "tags": [
                 "supernatural",
-                "post-apocalyptic",
                 "comedy"
             ]
         },
@@ -540,7 +548,7 @@
             "id": 51,
             "name" : "Batman: The Audio Adventures",
             "rating": "9",
-            "review": " is an official Batman audiodrama, produced by HBO. It is in the style of the Batman animated series, with a noir pulp tone. It has the vibes of an old radio drama, which is done very well. The story focuses a lot on the various Batman villains, with more time spent focused on the villains than Batman himself. I particularly like this show's interpretation of Two-Face.",
+            "review": "is an official Batman audiodrama, produced by HBO. It is in the style of the Batman animated series, with a noir pulp tone. It has the vibes of an old radio drama, which is done very well. The story focuses a lot on the various Batman villains, with more time spent focused on the villains than Batman himself. I particularly like this show's interpretation of Two-Face.",
             "tags": [
                 "supernatural",
                 "comedy"
@@ -551,7 +559,7 @@
             "id": 52,
             "name" : "Keep it Steady",
             "rating": "7.5",
-            "review": " is a queer romcom set in a small conservative town in 2005 about two guys who pretend to date to take the heat off of another gay couple at their school who are getting bullied. I really enjoyed this audiodrama, but it unfortunately has a very slow release schedule.",
+            "review": "is a queer romcom set in a small conservative town in 2005 about two guys who pretend to date to take the heat off of another gay couple at their school who are getting bullied. I really enjoyed this audiodrama, but it unfortunately has a very slow release schedule.",
             "tags": [
                 "comedy",
                 "queer",
@@ -563,10 +571,11 @@
             "id": 53,
             "name" : "The Mechanisms",
             "rating": "8.5",
-            "review": " is technically a band, not an audiodrama, but I think they count. Each album by the Mechanisms is a musical story using a combination of songs and narration/dialogue that reimagines myths or folk stories in a sci-fi setting. For example, High Noon Over Camelot is the story of King Arthur as a cowboy, set on a massive space station. Because they are albums, none of them are very long, but they are all very good.",
+            "review": "is technically a band, not an audiodrama, but I think they count. Each album by the Mechanisms is a musical story using a combination of songs and narration/dialogue that reimagines myths or folk stories in a sci-fi setting. For example, High Noon Over Camelot is the story of King Arthur as a cowboy, set on a massive space station. Because they are albums, none of them are very long, but they are all very good.",
             "tags": [
                 "sci-fi",
                 "post-apocalyptic",
+                "mystery",
                 "musical",
                 "queer",
                 "complete"
@@ -577,7 +586,7 @@
             "id": 54,
             "name" : "Look Up",
             "rating": "8",
-            "review": " is a queer romance coming-of-age story about two boys whose parents are astronauts on a long-term mars mission. Each night the boys meet on the beach and stargaze, working through the issues that they both have and feelings that their moms abandoned them. This is a great show and I really liked the characters.",
+            "review": "is a queer romance coming-of-age story about two boys whose parents are astronauts on a long-term mars mission. Each night the boys meet on the beach and stargaze, working through the issues that they both have and feelings that their moms abandoned them. This is a great show and I really liked the characters.",
             "tags": [
                 "queer",
                 "romance",
@@ -589,7 +598,7 @@
             "id": 55,
             "name" : "Modes of Thought in Anterran Literature",
             "rating": "8",
-            "review": " are the recorded university lectures of the class Modes of Thought in Anterran Literature, a class about the recently discovered ancient civilization of Anterra. However, the professor has a shady background, and many of the students don't even believe Anterra exists… I'm a big fan of fictional ancient myths, so I loved this show.",
+            "review": "are the recorded university lectures of the class Modes of Thought in Anterran Literature, a class about the recently discovered ancient civilization of Anterra. However, the professor has a shady background, and many of the students don't even believe Anterra exists… I'm a big fan of fictional ancient myths, so I loved this show.",
             "tags": [
                 "supernatural",
                 "queer"
@@ -600,7 +609,7 @@
             "id": 56,
             "name" : "Rebel Robin: Surviving Hawkins",
             "rating": "7.5",
-            "review": " is an official Stranger Things audiodrama about the character Robin. The show is set during the first few seasons of Stranger Things, and shows Robin befriending one of her teachers and thinking about her future. I enjoyed this podcast, but you have to have watched Stranger Things in order to enjoy to this show.",
+            "review": "is an official Stranger Things audiodrama about the character Robin. The show is set during the first few seasons of Stranger Things, and shows Robin befriending one of her teachers and thinking about her future. I enjoyed this podcast, but you have to have watched Stranger Things in order to enjoy to this show.",
             "tags": [
                 "queer",
                 "complete"
@@ -611,9 +620,10 @@
             "id": 57,
             "name" : "Unwell: A Midwest Gothic Mystery",
             "rating": "8.5",
-            "review": " is pretty much what it says in the title, a spooky audiodrama set in the small town of Mt. Absalom, Ohio. This podcast is not horror, it has spooky elements but is more focused on characters and the overarching mystery than horror. Unwell is a bit slow at the beginning, but I was hooked by the end of the first season and binged the next three in a week.",
+            "review": "is pretty much what it says in the title, a spooky audiodrama set in the small town of Mt. Absalom, Ohio. This podcast is not horror, it has spooky elements but is more focused on characters and the overarching mystery than horror. Unwell is a bit slow at the beginning, but I was hooked by the end of the first season and binged the next three in a week.",
             "tags": [
                 "supernatural",
+                "mystery",
                 "queer",
                 "complete"
             ]
@@ -623,7 +633,7 @@
             "id": 58,
             "name" : "This Planet Needs a Name",
             "rating": "8",
-            "review": " is a sci-fi podcast about the crew of people sent to ready a new planet for human habitation. It does something I've never seen before in an audiodrama by having the voice actor for each character help write that character, which makes the cast feel very real and fleshed out. They also focuses a lot on the relationships between the crew. Right around the time this show hooked me I ran out of new episodes to listen to, their release schedule is unfortunately very slow.",
+            "review": "is a sci-fi podcast about the crew of people sent to ready a new planet for human habitation. It does something I've never seen before in an audiodrama by having the voice actor for each character help write that character, which makes the cast feel very real and fleshed out. They also focuses a lot on the relationships between the crew. Right around the time this show hooked me I ran out of new episodes to listen to, their release schedule is unfortunately very slow.",
             "tags": [
                 "sci-fi",
                 "queer"
@@ -634,7 +644,7 @@
             "id": 59,
             "name" : "Welcome to Nightvale",
             "rating": "6.5",
-            "review": " is a classic, well-known, surreal audiodrama that consists of bi-weekly radio updates from the small town of Nightvale. It started in 2012, and has released an episode every 2 weeks since then, with no sign of stopping. If you listen to any audiodramas, you have probably heard of Nightvale. I personally got tired of the show around 50 episodes in, the very slow plot happening in the background not being enough to keep me interested.",
+            "review": "is a classic, well-known, surreal audiodrama that consists of bi-weekly radio updates from the small town of Nightvale. It started in 2012, and has released an episode every 2 weeks since then, with no sign of stopping. If you listen to any audiodramas, you have probably heard of Nightvale. I personally got tired of the show around 50 episodes in, the very slow plot happening in the background not being enough to keep me interested.",
             "tags": [
                 "supernatural",
                 "comedy",
@@ -646,7 +656,7 @@
             "id": 60,
             "name" : "Midst",
             "rating": "9.5",
-            "review": " is a surreal space-western that is unique in so many ways. First of all, it has some of the most unique worldbuilding I have ever seen. The world of Midst is different to ours in every way, with even things like the way light works being different. Another unique factor is that the show is narrated rather than voice-acted, but there are 3 narrators who trade off and interrupt each other constantly, giving the narration an incredibly organic feel. Midst follows 3 morally gray main characters, their plot arcs constantly crossing paths. This show starts off with a bang, literally, then goes back to everything that built up to that.",
+            "review": "is a surreal space-western that is unique in so many ways. First of all, it has some of the most unique worldbuilding I have ever seen. The world of Midst is different to ours in every way, with even things like the way light works being different. Another unique factor is that the show is narrated rather than voice-acted, but there are 3 narrators who trade off and interrupt each other constantly, giving the narration an incredibly organic feel. Midst follows 3 morally gray main characters, their plot arcs constantly crossing paths. This show starts off with a bang, literally, then goes back to everything that built up to that.",
             "tags": [
                 "sci-fi",
                 "supernatural"
@@ -657,7 +667,7 @@
             "id": 61,
             "name" : "Worlds Beyond Number",
             "rating": "10",
-            "review": " is an actual play D&D podcast starring Brennan Lee Mulligan, Erika Ishii, Lou Wilson, and Aabria Iyengar. It is incredible, with the best music and sound design of any actual play podcast I have listened to. Their first campaign, The Wizard, The Witch, and the Wild One, is inspired by Ghibli movies and Irish and Japanese folklore. The cast are incredibly talented and create so many emotional gut punches. I highly recommend subscribing to their Patreon for a month to listen to the Children's Adventure, their mini-campaign prologue about their characters as children.",
+            "review": "is an actual play D&D podcast starring Brennan Lee Mulligan, Erika Ishii, Lou Wilson, and Aabria Iyengar. It is incredible, with the best music and sound design of any actual play podcast I have listened to. Their first campaign, The Wizard, The Witch, and the Wild One, is inspired by Ghibli movies and Irish and Japanese folklore. The cast are incredibly talented and create so many emotional gut punches. I highly recommend subscribing to their Patreon for a month to listen to the Children's Adventure, their mini-campaign prologue about their characters as children.",
             "tags": [
                 "fantasy",
                 "queer",
@@ -669,7 +679,7 @@
             "id": 62,
             "name" : "Girl in Space",
             "rating": "9",
-            "review": " is a sci-fi audiodrama about a woman who has spent her entire life on a spaceship orbiting a star, never talking to anyone other than her parents and the dysfunctional ship AI. I love this show, it has great characters, and the ship itself has some of the best vibes of any spaceship in fiction.",
+            "review": "is a sci-fi audiodrama about a woman who has spent her entire life on a spaceship orbiting a star, never talking to anyone other than her parents and the dysfunctional ship AI. I love this show, it has great characters, and the ship itself has some of the best vibes of any spaceship in fiction.",
             "tags": [
                 "sci-fi",
                 "queer"
@@ -680,7 +690,7 @@
             "id": 63,
             "name" : "The Tower",
             "rating": "8",
-            "review": " is a surreal story about a woman who abandons her mundane life to climb the supposedly endless tower in the middle of town. The first season of the show came out pre-pandemic, but the entire show has lockdown vibes, with one of the major themes being how isolating modern life is.",
+            "review": "is a surreal story about a woman who abandons her mundane life to climb the supposedly endless tower in the middle of town. The first season of the show came out pre-pandemic, but the entire show has lockdown vibes, with one of the major themes being how isolating modern life is.",
             "tags": [
                 "supernatural",
                 "queer"
@@ -691,9 +701,10 @@
             "id": 64,
             "name" : "Bridgewater",
             "rating": "8.5",
-            "review": " is a supernatural mystery audiodrama about a folklore professor in a small town investigating the event tied to his fathers disappearance 40 years ago. The characters are all super well written, Jeremy perfectly captures the energy of \"college professor devoted to his job\". ",
+            "review": "is a supernatural mystery audiodrama about a folklore professor in a small town investigating the event tied to his fathers disappearance 40 years ago. The characters are all super well written, Jeremy perfectly captures the energy of \"college professor devoted to his job\". ",
             "tags": [
                 "supernatural",
+                "mystery",
                 "complete"
             ]
         },
@@ -702,7 +713,7 @@
             "id": 65,
             "name" : "Eeler's Choice",
             "rating": "8",
-            "review": " is a maritime dark fantasy podcast set in a small town in an alternate 1800s where giant eels roam the seas instead of whales, and are hunted for their bones, fat, and skin. This show has incredible sound design and really cool original folk music.",
+            "review": "is a maritime dark fantasy podcast set in a small town in an alternate 1800s where giant eels roam the seas instead of whales, and are hunted for their bones, fat, and skin. This show has incredible sound design and really cool original folk music.",
             "tags": [
                 "fantasy",
                 "queer"
@@ -713,7 +724,7 @@
             "id": 66,
             "name" : "Stories from Ylelmore",
             "rating": "8.5",
-            "review": " is an all-ages, slice-of-life, urban fantasy audiodrama about a group of kids starting a podcast and getting up to magical shenanigans. This show has very cozy vibes, it reminds me of the cartoon Hilda. I love the characters in this show; the protagonist in particular, Keryth, is great. Stories From Ylelmore is made entirely by one person, including all the voices.",
+            "review": "is an all-ages, slice-of-life, urban fantasy audiodrama about a group of kids starting a podcast and getting up to magical shenanigans. This show has very cozy vibes, it reminds me of the cartoon Hilda. I love the characters in this show; the protagonist in particular, Keryth, is great. Stories From Ylelmore is made entirely by one person, including all the voices.",
             "tags": [
                 "fantasy",
                 "supernatural",
@@ -726,7 +737,7 @@
             "id": 67,
             "name" : "Back Again, Back Again",
             "rating": "9",
-            "review": " is a portal fantasy story, akin to Narnia, about a girl from who wakes up in the world of Rhysea on her 17th birthday. However, unlike most portal fantasy stories, Back Again, Back Again starts at the end of the stories, when Ilyaas dies in battle after 5 years in Rhysea and wakes up back home, 17 years old again. The podcast is Ilyaas telling the story of what happened to her in Rhysea. The show also has a heavy focus on fantasy linguistics and how language is used to control people.",
+            "review": "is a portal fantasy story, akin to Narnia, about a girl from who wakes up in the world of Rhysea on her 17th birthday. However, unlike most portal fantasy stories, Back Again, Back Again starts at the end of the stories, when Ilyaas dies in battle after 5 years in Rhysea and wakes up back home, 17 years old again. The podcast is Ilyaas telling the story of what happened to her in Rhysea. The show also has a heavy focus on fantasy linguistics and how language is used to control people.",
             "tags": [
                 "fantasy",
                 "queer",
@@ -738,7 +749,7 @@
             "id": 68,
             "name" : "New Year's Day",
             "rating": "8",
-            "review": " is an audiodrama that releases an episode on New Year's Day every year. It stars two rival magicians who become immortal after a strange accident happens on stage. They agree to meet every 13 years, on new years day, to discuss developments in the world. This show is like if The Prestige was an enemies-to-lovers story.",
+            "review": "is an audiodrama that releases an episode on New Year's Day every year. It stars two rival magicians who become immortal after a strange accident happens on stage. They agree to meet every 13 years, on new years day, to discuss developments in the world. This show is like if The Prestige was an enemies-to-lovers story.",
             "tags": [
                 "supernatural",
                 "queer",
@@ -750,7 +761,7 @@
             "id": 69,
             "name" : "Breaker Whiskey",
             "rating": "8",
-            "review": " is an audiodrama which releases a short, 2-5 minute episode, every weekday. After an unknown apocalyptic event makes nearly everyone in the United States disappear in 1968, two women find themselves stranded in a cabin in the middle of nowhere. After 6 years, one of the women can't take it anymore and sets out to find other survivors, sending out transmissions every day with her CB radio. This show was created as a personal project by Laruen Shippen, who recorded it on an actual 1976 CB radio.", 
+            "review": "is an audiodrama which releases a short, 2-5 minute episode, every weekday. After an unknown apocalyptic event makes nearly everyone in the United States disappear in 1968, two women find themselves stranded in a cabin in the middle of nowhere. After 6 years, one of the women can't take it anymore and sets out to find other survivors, sending out transmissions every day with her CB radio. This show was created as a personal project by Laruen Shippen, who recorded it on an actual 1976 CB radio.", 
             "tags": [
                 "post-apocalyptic",
                 "queer",
@@ -762,7 +773,7 @@
             "id": 70,
             "name" : "Sword and Spinner",
             "rating": "8",
-            "review": " is a spinoff of Back Again, Back Again, set a thousand years earlier following unrelated characters in the same world. It follows a warrior from a foreign land and a bard travelling around the kingdom of Rhysea, fighting monsters and helping people. Sword and Spinner explores what it means to be exiled from your own home.", 
+            "review": "is a spinoff of Back Again, Back Again, set a thousand years earlier following unrelated characters in the same world. It follows a warrior from a foreign land and a bard travelling around the kingdom of Rhysea, fighting monsters and helping people. Sword and Spinner explores what it means to be exiled from your own home.", 
             "tags": [
                 "fantasy",
                 "queer"
@@ -773,7 +784,7 @@
             "id": 71,
             "name" : "Lost Terminal",
             "rating": "8.5",
-            "review": " is a hopepunk post-apocalyptic sci-fi podcast about a lonely AI looking for friends. The show consists of Seth, a sentient AI that lives in a space station, narrating his reports sent back to a long-gone mission control. The show frequently introduces new characters, some of which have very compelling character arcs. Lost Terminal is hard sci-fi, something that I've found is very rare among audiodramas, which tend towards softer sci-fi. It also has a huge backlog of episodes, with over 15 seasons out.",
+            "review": "is a hopepunk post-apocalyptic sci-fi podcast about a lonely AI looking for friends. The show consists of Seth, a sentient AI that lives in a space station, narrating his reports sent back to a long-gone mission control. The show frequently introduces new characters, some of which have very compelling character arcs. Lost Terminal is hard sci-fi, something that I've found is very rare among audiodramas, which tend towards softer sci-fi. It also has a huge backlog of episodes, with over 15 seasons out.",
             "tags": [
                 "sci-fi",
                 "post-apocalyptic",
@@ -785,7 +796,7 @@
             "id": 72,
             "name" : "Camlann",
             "rating": "8",
-            "review": " is a post-apocalyptic audiodrama set in a world where myths have come to life, forcing people into the roles of characters with similar names from folklore. The show focuses on Arthurian legends, with two of the three main characters having names from Arthurian myth. This show has a very cool perspective on the concept of characters being aware that they are part of a story. Also, I was able to enjoy this show while knowing very little about actual Arthurian legend, though I'm sure it improves the story.",
+            "review": "is a post-apocalyptic audiodrama set in a world where myths have come to life, forcing people into the roles of characters with similar names from folklore. The show focuses on Arthurian legends, with two of the three main characters having names from Arthurian myth. This show has a very cool perspective on the concept of characters being aware that they are part of a story. Also, I was able to enjoy this show while knowing very little about actual Arthurian legend, though I'm sure it improves the story.",
             "tags": [
                 "fantasy",
                 "supernatural",
@@ -798,7 +809,7 @@
             "id": 73,
             "name" : "Sinkhole",
             "rating": "7.5",
-            "review": " is an audiodrama about data restoration, how new technology affects culture, and the giant sinkhole that appeared in the middle of the city. The format of the show is voice recordings of a woman's forum posts on a data restoration forum, set in a future where neural interface technology has changed the world in the same way the internet did. This show is at times surreal, weird, and informative, and does a very good job capturing the vibes of a forum post.",
+            "review": "is an audiodrama about data restoration, how new technology affects culture, and the giant sinkhole that appeared in the middle of the city. The format of the show is voice recordings of a woman's forum posts on a data restoration forum, set in a future where neural interface technology has changed the world in the same way the internet did. This show is at times surreal, weird, and informative, and does a very good job capturing the vibes of a forum post.",
             "tags": [
                 "sci-fi",
                 "supernatural"
@@ -809,7 +820,7 @@
             "id": 74,
             "name" : "The Kingmaker Histories",
             "rating": "8",
-            "review": " is a faux-history comedy audiodrama following the history of the kingmaker diamond, which at the time of the show is embedded in the head of Colette Geise, one of the protagonists. The show is set in 1911 in a made-up small European nation which has a history of portals to another dimension. It also has a very cool magic system, including the fey-like Good Neighbors, beings who originated in another dimension but now live on Earth.",
+            "review": "is a faux-history comedy audiodrama following the history of the kingmaker diamond, which at the time of the show is embedded in the head of Colette Geise, one of the protagonists. The show is set in 1911 in a made-up small European nation which has a history of portals to another dimension. It also has a very cool magic system, including the fey-like Good Neighbors, beings who originated in another dimension but now live on Earth.",
             "tags": [
                 "fantasy",
                 "comedy",
@@ -821,11 +832,34 @@
             "id": 75,
             "name" : "Skyjacks: Courier's Call",
             "rating": "8.5",
-            "review": " is a kid-friendly actual play podcast following three kids who become Couriers, a group that delivers mail using airships and giant birds. The characters are the strongest part of this show, with very likeable player characters. They use a modified version of the Fate system, which I prefer for audio actual plays over something crunchier. Courier's Call is actually a spinoff of another actual play, which I haven't listened to, but I don't feel like I have missed anything by not listening to it.",
+            "review": "is a kid-friendly actual play podcast following three kids who become Couriers, a group that delivers mail using airships and giant birds. The characters are the strongest part of this show, with very likeable player characters. They use a modified version of the Fate system, which I prefer for audio actual plays over something crunchier. Courier's Call is actually a spinoff of another actual play, which I haven't listened to, but I don't feel like I have missed anything by not listening to it.",
             "tags": [
                 "fantasy",
                 "actual play",
                 "kid-friendly"
+            ]
+        },
+
+        {
+            "id": 76,
+            "name" : "World Gone Wrong",
+            "rating": "7.5",
+            "review": "is a light comedy audiodrama that takes the form of a chat podcast set during the end of the world. Two roommates moved away from each other, shortly before the weirdest apocalypse imaginable started happening, so they started a podcast to stay in touch. Werewolves, time loops, and alien doppelgangers are some of the many strange things going on in the world that the main characters discuss. World Gone Wrong is a fun show from the same team that made Unwell: A Midwest Gothic Mystery.",
+            "tags": [
+                "post-apocalyptic",
+                "comedy",
+                "queer"
+            ]
+        },
+
+        {
+            "id": 77,
+            "name" : "Mockery Manor",
+            "rating": "8",
+            "review": "is a murder mystery audiodrama set in a bizarre theme park. Teenage twin sisters Bette and JJ get jobs working at the theme park Mockery Manor, but strange things are happening and people are going missing. Mockery Manor has a very complex plot, with some sort of major reveal happening in nearly every episode while also keeping up the suspense of the mystery until the season finale.",
+            "tags": [
+                "queer",
+                "mystery"
             ]
         }
 

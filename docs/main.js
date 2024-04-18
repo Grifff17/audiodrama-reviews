@@ -98,7 +98,7 @@ function displayAudiodramas(event) {
             // name.appendChild(boldname)
 
             let review = document.createElement('td')
-            review.appendChild(document.createTextNode(`${audiodrama.name}${audiodrama.review}`))
+            review.appendChild(document.createTextNode(`${audiodrama.name} ${audiodrama.review}`))
 
             let rating = document.createElement('td')
             rating.appendChild(document.createTextNode(`${audiodrama.rating}/10`))
