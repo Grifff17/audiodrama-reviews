@@ -41,20 +41,12 @@ function displayAudiodramas(event) {
         selectHeader.id = "checkboxcell"
 
         let imageHeader = document.createElement('th')
-        imageHeader.appendChild(document.createTextNode(" "))
+        imageHeader.appendChild(document.createTextNode("Logo"))
         imageHeader.style.width = "120px"
-
-        // let nameHeader = document.createElement('th')
-        // nameHeader.appendChild(document.createTextNode("Name"))
-        // nameHeader.style.width = "120px"
 
         let reviewHeader = document.createElement('th')
         reviewHeader.appendChild(document.createTextNode("Review"))
         reviewHeader.style.width = "auto"
-
-        let ratingHeader = document.createElement('th')
-        ratingHeader.appendChild(document.createTextNode("Rating"))
-        ratingHeader.style.width = "30px"
 
         let tagsHeader = document.createElement('th')
         tagsHeader.appendChild(document.createTextNode("Tags"))
@@ -62,9 +54,7 @@ function displayAudiodramas(event) {
 
         listHeader.appendChild(selectHeader)
         listHeader.appendChild(imageHeader)
-        // listHeader.appendChild(nameHeader)
         listHeader.appendChild(reviewHeader)
-        listHeader.appendChild(ratingHeader)
         listHeader.appendChild(tagsHeader)
         audiodramasList.appendChild(listHeader)
 
@@ -92,25 +82,15 @@ function displayAudiodramas(event) {
             pic.width = "145"
             image.appendChild(pic)
 
-            // let name = document.createElement('td')
-            // let boldname = document.createElement("b")
-            // boldname.appendChild(document.createTextNode(audiodrama.name))
-            // name.appendChild(boldname)
-
             let review = document.createElement('td')
             review.appendChild(document.createTextNode(`${audiodrama.name} ${audiodrama.review}`))
-
-            let rating = document.createElement('td')
-            rating.appendChild(document.createTextNode(`${audiodrama.rating}/10`))
 
             let tags = document.createElement('td')
             tags.innerHTML = taglist
             
             listItem.appendChild(selector)
             listItem.appendChild(image)
-            // listItem.appendChild(name)
             listItem.appendChild(review)
-            listItem.appendChild(rating)
             listItem.appendChild(tags)
             audiodramasList.appendChild(listItem)
         })
@@ -170,7 +150,7 @@ function togglefilter(tag) {
     let table = document.getElementById("ADtable")
     let rows = table.getElementsByTagName("tr")
     for (i = 1; i < rows.length; i++) {
-        val = rows[i].getElementsByTagName("td")[4].textContent
+        val = rows[i].getElementsByTagName("td")[3].textContent
         let valid = true
         for (const tag of enabledtags) {
             if (!val.includes(tag)) {
@@ -200,6 +180,6 @@ function copyselected() {
             copymessage = copymessage + rows[i].getElementsByTagName("td")[2].textContent + "\n\n"
         }
     }
-    copymessage = copymessage + "For more recommendations, check out my website https://grifff17.github.io/audiodrama-reviews/"
+    copymessage = copymessage + "For more recommendations, check out https://grifff17.github.io/audiodrama-reviews/"
     navigator.clipboard.writeText(copymessage)
 }
