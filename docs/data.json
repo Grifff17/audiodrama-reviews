@@ -737,7 +737,7 @@
             "id": 67,
             "name" : "Back Again, Back Again",
             "rating": "9",
-            "review": "is a portal fantasy story, akin to Narnia, about a girl from who wakes up in the world of Rhysea on her 17th birthday. However, unlike most portal fantasy stories, Back Again, Back Again starts at the end of the stories, when Ilyaas dies in battle after 5 years in Rhysea and wakes up back home, 17 years old again. The podcast is Ilyaas telling the story of what happened to her in Rhysea. The show also has a heavy focus on fantasy linguistics and how language is used to control people.",
+            "review": "is a portal fantasy story, akin to Narnia, about a girl from who wakes up in the world of Rhysea on her 17th birthday. However, unlike most portal fantasy stories, Back Again, Back Again starts at the end of the stories, when Ilyaas dies in battle after 5 years in Rhysea and wakes up back home, 17 years old again. The podcast is Ilyaas telling the story of what happened to her in Rhysea. The show also has a heavy focus on fantasy linguistics and how language is used to control people. Also check off its spinoff Sword and Spinner, set far in the past of Rhysea.",
             "tags": [
                 "fantasy",
                 "queer",
@@ -766,17 +766,6 @@
                 "post-apocalyptic",
                 "queer",
                 "romance"
-            ]
-        },
-
-        {
-            "id": 70,
-            "name" : "Sword and Spinner",
-            "rating": "8",
-            "review": "is a spinoff of Back Again, Back Again, set a thousand years earlier following unrelated characters in the same world. It follows a warrior from a foreign land and a bard travelling around the kingdom of Rhysea, fighting monsters and helping people. Sword and Spinner explores what it means to be exiled from your own home.", 
-            "tags": [
-                "fantasy",
-                "queer"
             ]
         },
 
@@ -835,6 +824,7 @@
             "review": "is a kid-friendly actual play podcast following three kids who become Couriers, a group that delivers mail using airships and giant birds. The characters are the strongest part of this show, with very likeable player characters. They use a modified version of the Fate system, which I prefer for audio actual plays over something crunchier. Courier's Call is actually a spinoff of another actual play, which I haven't listened to, but I don't feel like I have missed anything by not listening to it.",
             "tags": [
                 "fantasy",
+                "comedy",
                 "actual play",
                 "kid-friendly"
             ]
