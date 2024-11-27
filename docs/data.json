@@ -415,7 +415,7 @@
         {
             "id": 39,
             "name" : "Spout Lore",
-            "rating": "9",
+            "rating": "8",
             "review": "is an actual play podcast, using an RPG system called Dungeon World that has a heavy focus on story. It's super funny, and has a heavy emphasis on story and characters rather than combat. The system they use is perfect for the tone of the game and they use collaborative storytelling extensively. Someone might roll a partial success on something, and another player suggests something that they think might be cool as a result of the roll and they just go with it.",
             "tags": [
                 "fantasy",
@@ -659,7 +659,8 @@
             "review": "is a surreal space-western that is unique in so many ways. First of all, it has some of the most unique worldbuilding I have ever seen. The world of Midst is different to ours in every way, with even things like the way light works being different. Another unique factor is that the show is narrated rather than voice-acted, but there are 3 narrators who trade off and interrupt each other constantly, giving the narration an incredibly organic feel. Midst follows 3 morally gray main characters, their plot arcs constantly crossing paths. This show starts off with a bang, literally, then goes back to everything that built up to that.",
             "tags": [
                 "sci-fi",
-                "supernatural"
+                "supernatural",
+                "complete"
             ]
         },
 
@@ -765,7 +766,8 @@
             "tags": [
                 "post-apocalyptic",
                 "queer",
-                "romance"
+                "romance",
+                "complete"
             ]
         },
 
@@ -850,6 +852,122 @@
             "tags": [
                 "mystery",
                 "comedy",
+                "queer"
+            ]
+        },
+
+        {
+            "id": 78,
+            "name" : "Hamuel Burger and the American Dream",
+            "rating": "8",
+            "review": " is a surrealist comedy about an alien twitch streamer who has come to Earth to speedrun killing/becoming the President. It's laugh-out-loud funny, with lots of references to internet culture.",
+            "tags": [
+                "sci-fi",
+                "comedy",
+                "queer"
+            ]
+        },
+
+        {
+            "id": 79,
+            "name" : "InCo",
+            "rating": "8.9",
+            "review": "is a sci-fi microfiction podcast about a grumpy information seller who rescues a naive alien price from the vacuum of space and has to try and get along with him. Each episode is around 3-8 minutes long. It is explicitly *not* a romance; the two main characters form a close platonic relationship. I particularly enjoyed the third season of this show, which has major political intrigue elements.",
+            "tags": [
+                "sci-fi",
+                "queer",
+                "complete"
+            ]
+        },
+
+        {
+            "id": 80,
+            "name" : "Case Study IREC-A59",
+            "rating": "6.9",
+            "review": "is a scifi first contact story told from the perspective of the aliens. It follows the small crew of an alien ship that finds a human in cryostasis and accidentally wakes it up, trigging an unplanned first contact. This is a cool show that does a lot of neat things with \"humans are space orcs\" tropes.",
+            "tags": [
+                "sci-fi"
+            ]
+        },
+
+        {
+            "id": 81,
+            "name" : "Starwhal Odyssey",
+            "rating": "8.1",
+            "review": "is a weird-sci-fi actual play podcast. The tenants of an apartment building in a city built on an asteroid have their life uprooted when they discover that the building is actually a spaceship. This show is very heavily collaborative, with 2 of the 4 players also being DMs who trade off from scene to scene. The other 2 players also frequently play NPCs in the story. The setting is inspired by the D&D setting Spelljammer, though they switch systems away from 5e after the first episode.",
+            "tags": [
+                "sci-fi",
+                "fantasy",
+                "actual play"
+            ]
+        },
+
+        {
+            "id": 82,
+            "name" : "Mall Brats",
+            "rating": "7.9",
+            "review": "is a spin-off of the actual play Spout Lore. It's a Blades in the Dark game that focuses on a gang of 3 kids that sell candy in a giant fantasy mall that is a relic of a bygone golden age. The show is very funny, though don't expect the cast to understand the rules of the system very well. It has very little connection to Spout Lore besides being set in the same world, so you don't need to have listened to Spout Lore to listen to Mall Brats.",
+            "tags": [
+                "fantasy",
+                "comedy",
+                "actual play"
+            ]
+        },
+
+        {
+            "id": 83,
+            "name" : "Starfall",
+            "rating": "7.6",
+            "review": "is a fantasy audiodrama about a warrior on the run from her past who joins a travelling acting troupe. The acting troupe uses a large amount of magic and magic items to enhance the effect of the plays they put on. This show has a very strong cast of characters.",
+            "tags": [
+                "fantasy",
+                "queer"
+            ]
+        },
+
+        {
+            "id": 84,
+            "name" : "Childish: The Podcast Musical",
+            "rating": "7",
+            "review": "is a comedy musical audiodrama about a college student who becomes an RA to advance his dreams of becoming a famous rapper by following in the footsteps of his hero, Childish Gambino.  This is a short, silly, musical that makes fun of college RAs, the music industry, and white people.",
+            "tags": [
+                "comedy",
+                "musical"
+            ]
+        },
+
+        {
+            "id": 85,
+            "name" : "Inn Between",
+            "rating": "8.7",
+            "review": "is a fantasy audiodrama that follows a classic D&D adventuring party… but only when they're in the tavern. All of the actual adventuring and fighting monsters and whatnot happens offscreeen, and the show only focuses on the character hanging out in the tavern in between(get it?) adventures. It's sort of like a D&D campaign but just the character development, and nothing else, and it's great! The show has the time needed to dive into the backstory and relationships of all of the characters.",
+            "tags": [
+                "fantasy",
+                "comedy",
+                "queer",
+                "complete"
+            ]
+        },
+
+        {
+            "id": 86,
+            "name" : "Project: Daydream",
+            "rating": "7.5",
+            "review": "is a modern supernatural audiodrama about a clandestine government agency that investigates supernatural phenomena. All the characters have numbers instead of names, and all their memories from before joining the agency are wiped. This show takes a lot of inspiration from the SCP Foundation and the game Control, so if you like either of those things, chances are you'll like this show.",
+            "tags": [
+                "supernatural",
+                "queer"
+            ]
+        },
+
+        {
+            "id": 87,
+            "name" : "Witherburn After School News",
+            "rating": "8",
+            "review": "is an audiodrama that follows a teenage girl, known only as The Reporter, who starts a radio show to talk about what's going on in her small town and high school. The promposals,  local events, sports games, and of course the steadily growing count of missing kids. This show is horror, but is very slow paced and focuses a lot on small town mundanity over the plot, which I think is why I liked it, despite not usually being a fan of horror podcasts.",
+            "tags": [
+                "supernatural",
+                "mystery",
                 "queer"
             ]
         }
